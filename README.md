@@ -6,7 +6,7 @@ This repository contains mock healthcare billing data designed for analysis and 
 ## 📁 Files
 
 - `mock_claims_data.csv`: Contains mock records of hospital claims including:
-- dataset: [(https://github.com/vkemunto/Hospital-Claim-Analysis-/blob/main/Screenshot%202025-07-27%20180239.png)]
+- dataset:[(https://github.com/vkemunto/Hospital-Claim-Analysis-/blob/main/healthcare_billing_expanded.csv)]
   - Claim ID
   - Patient ID
   - Service Type
@@ -18,7 +18,7 @@ This repository contains mock healthcare billing data designed for analysis and 
   - Facility
   - Payment Status
 
-- `PowerBI_Dashboard.pbx`: Sample Power BI dashboard for visualizing claim trends and analytics.
+- `PowerBI_Dashboard.pbx`: Sample Power BI dashboard for visualizing claim trends and analytics. -  [(https://github.com/vkemunto/Hospital-Claim-Analysis-/blob/main/Screenshot%202025-07-27%20180239.png)]
 - `DAX_Measures.txt`: List of DAX measures used in the dashboard for custom calculations.
 
 ## 🔍 Use Cases
