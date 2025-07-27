@@ -6,6 +6,7 @@ This repository contains mock healthcare billing data designed for analysis and 
 ## 📁 Files
 
 - `mock_claims_data.csv`: Contains mock records of hospital claims including:
+- dataset: [(https://github.com/vkemunto/Hospital-Claim-Analysis-/blob/main/Screenshot%202025-07-27%20180239.png)]
   - Claim ID
   - Patient ID
   - Service Type
