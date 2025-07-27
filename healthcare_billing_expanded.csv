@@ -1,0 +1,1001 @@
+Patient_ID,Visit_Date,Facility,Service_Type,Amount_Billed,Amount_Paid,Payment_Status,Payment_Mode,County,NHIF_Covered
+PT-00001,2023-01-01 00:00:00,Mbagathi Hospital,Surgery,2363,0.0,Unpaid,Mpesa,Nakuru,No
+PT-00002,2023-01-01 01:00:00,Aga Khan,Surgery,4940,0.0,Unpaid,Mpesa,Kiambu,Yes
+PT-00003,2023-01-01 02:00:00,Nairobi West,Surgery,3572,0.0,Unpaid,Insurance,Kiambu,Yes
+PT-00004,2023-01-01 03:00:00,Aga Khan,Surgery,3624,3624.0,Paid,Insurance,Uasin Gishu,Yes
+PT-00005,2023-01-01 04:00:00,Aga Khan,Radiology,1827,0.0,Unpaid,Cash,Kiambu,No
+PT-00006,2023-01-01 05:00:00,Moi Referral,Radiology,2908,0.0,Unpaid,Mpesa,Mombasa,No
+PT-00007,2023-01-01 06:00:00,Nairobi West,Lab Test,4173,0.0,Unpaid,NHIF,Kiambu,Yes
+PT-00008,2023-01-01 07:00:00,Nairobi West,Consultation,3791,1915.84,Partially Paid,Insurance,Kisumu,No
+PT-00009,2023-01-01 08:00:00,Nairobi West,Surgery,4533,0.0,Unpaid,NHIF,Nakuru,Yes
+PT-00010,2023-01-01 09:00:00,Aga Khan,Lab Test,1203,1203.0,Paid,NHIF,Nakuru,No
+PT-00011,2023-01-01 10:00:00,Mbagathi Hospital,Consultation,1074,593.19,Partially Paid,Insurance,Kiambu,No
+PT-00012,2023-01-01 11:00:00,Nairobi West,Physiotherapy,3732,3732.0,Paid,Insurance,Nairobi,No
+PT-00013,2023-01-01 12:00:00,Aga Khan,Medication,3132,0.0,Unpaid,Insurance,Nairobi,No
+PT-00014,2023-01-01 13:00:00,Moi Referral,Radiology,4328,1314.31,Partially Paid,Insurance,Mombasa,Yes
+PT-00015,2023-01-01 14:00:00,Mbagathi Hospital,Physiotherapy,3730,3730.0,Paid,Mpesa,Nairobi,Yes
+PT-00016,2023-01-01 15:00:00,Moi Referral,Consultation,988,0.0,Unpaid,Mpesa,Mombasa,No
+PT-00017,2023-01-01 16:00:00,Mbagathi Hospital,Physiotherapy,1847,1847.0,Paid,Mpesa,Uasin Gishu,No
+PT-00018,2023-01-01 17:00:00,Aga Khan,Medication,4181,4181.0,Paid,Mpesa,Mombasa,Yes
+PT-00019,2023-01-01 18:00:00,Kenyatta National Hospital,Consultation,3673,3673.0,Paid,Cash,Nairobi,Yes
+PT-00020,2023-01-01 19:00:00,Mbagathi Hospital,Physiotherapy,2167,0.0,Unpaid,Mpesa,Kiambu,Yes
+PT-00021,2023-01-01 20:00:00,Moi Referral,Radiology,2137,0.0,Unpaid,Insurance,Uasin Gishu,No
+PT-00022,2023-01-01 21:00:00,Aga Khan,Radiology,4614,4614.0,Paid,NHIF,Nairobi,Yes
+PT-00023,2023-01-01 22:00:00,Mbagathi Hospital,Lab Test,4053,2617.67,Partially Paid,Mpesa,Mombasa,No
+PT-00024,2023-01-01 23:00:00,Kenyatta National Hospital,Physiotherapy,1500,946.01,Partially Paid,Cash,Kisumu,No
+PT-00025,2023-01-02 00:00:00,Kenyatta National Hospital,Surgery,1350,0.0,Unpaid,Insurance,Nakuru,No
+PT-00026,2023-01-02 01:00:00,Nairobi West,Physiotherapy,1888,0.0,Unpaid,NHIF,Nairobi,Yes
+PT-00027,2023-01-02 02:00:00,Nairobi West,Consultation,4212,0.0,Unpaid,NHIF,Mombasa,No
+PT-00028,2023-01-02 03:00:00,Moi Referral,Consultation,1867,0.0,Unpaid,Mpesa,Uasin Gishu,Yes
+PT-00029,2023-01-02 04:00:00,Mbagathi Hospital,Physiotherapy,1321,0.0,Unpaid,NHIF,Nairobi,No
+PT-00030,2023-01-02 05:00:00,Mbagathi Hospital,Medication,954,304.52,Partially Paid,Mpesa,Nairobi,No
+PT-00031,2023-01-02 06:00:00,Nairobi West,Radiology,2124,0.0,Unpaid,Mpesa,Nakuru,Yes
+PT-00032,2023-01-02 07:00:00,Mbagathi Hospital,Consultation,3272,3272.0,Paid,Insurance,Mombasa,No
+PT-00033,2023-01-02 08:00:00,Mbagathi Hospital,Radiology,4226,4226.0,Paid,Insurance,Kisumu,No
+PT-00034,2023-01-02 09:00:00,Kenyatta National Hospital,Consultation,3647,1765.6,Partially Paid,Cash,Uasin Gishu,No
+PT-00035,2023-01-02 10:00:00,Nairobi West,Lab Test,4589,4589.0,Paid,Insurance,Mombasa,Yes
+PT-00036,2023-01-02 11:00:00,Aga Khan,Surgery,2690,2123.8,Partially Paid,Insurance,Uasin Gishu,No
+PT-00037,2023-01-02 12:00:00,Nairobi West,Consultation,1416,722.68,Partially Paid,Mpesa,Nairobi,No
+PT-00038,2023-01-02 13:00:00,Aga Khan,Radiology,4486,4486.0,Paid,Insurance,Nakuru,No
+PT-00039,2023-01-02 14:00:00,Kenyatta National Hospital,Lab Test,3375,0.0,Unpaid,Mpesa,Nakuru,No
+PT-00040,2023-01-02 15:00:00,Moi Referral,Consultation,1940,1940.0,Paid,Mpesa,Kiambu,Yes
+PT-00041,2023-01-02 16:00:00,Mbagathi Hospital,Medication,4900,4900.0,Paid,Insurance,Kisumu,No
+PT-00042,2023-01-02 17:00:00,Kenyatta National Hospital,Surgery,1235,680.45,Partially Paid,Cash,Nakuru,No
+PT-00043,2023-01-02 18:00:00,Mbagathi Hospital,Consultation,4068,4068.0,Paid,Cash,Nairobi,No
+PT-00044,2023-01-02 19:00:00,Moi Referral,Lab Test,3838,2897.56,Partially Paid,NHIF,Kisumu,No
+PT-00045,2023-01-02 20:00:00,Moi Referral,Medication,3515,0.0,Unpaid,NHIF,Mombasa,Yes
+PT-00046,2023-01-02 21:00:00,Kenyatta National Hospital,Physiotherapy,3389,0.0,Unpaid,Insurance,Nakuru,Yes
+PT-00047,2023-01-02 22:00:00,Moi Referral,Lab Test,1461,0.0,Unpaid,Cash,Kisumu,Yes
+PT-00048,2023-01-02 23:00:00,Aga Khan,Lab Test,3489,3489.0,Paid,Mpesa,Nairobi,Yes
+PT-00049,2023-01-03 00:00:00,Moi Referral,Medication,4348,2863.73,Partially Paid,NHIF,Kiambu,No
+PT-00050,2023-01-03 01:00:00,Mbagathi Hospital,Lab Test,1526,0.0,Unpaid,Mpesa,Uasin Gishu,Yes
+PT-00051,2023-01-03 02:00:00,Mbagathi Hospital,Medication,4365,2579.87,Partially Paid,NHIF,Uasin Gishu,Yes
+PT-00052,2023-01-03 03:00:00,Mbagathi Hospital,Consultation,3363,2350.41,Partially Paid,Insurance,Nairobi,No
+PT-00053,2023-01-03 04:00:00,Mbagathi Hospital,Medication,3001,0.0,Unpaid,Cash,Nairobi,No
+PT-00054,2023-01-03 05:00:00,Aga Khan,Medication,2447,0.0,Unpaid,NHIF,Uasin Gishu,No
+PT-00055,2023-01-03 06:00:00,Nairobi West,Surgery,1677,1227.87,Partially Paid,Cash,Kiambu,No
+PT-00056,2023-01-03 07:00:00,Kenyatta National Hospital,Medication,511,0.0,Unpaid,Mpesa,Kisumu,Yes
+PT-00057,2023-01-03 08:00:00,Mbagathi Hospital,Medication,4899,2588.85,Partially Paid,Insurance,Uasin Gishu,No
+PT-00058,2023-01-03 09:00:00,Moi Referral,Physiotherapy,3864,2077.11,Partially Paid,Cash,Nairobi,No
+PT-00059,2023-01-03 10:00:00,Mbagathi Hospital,Consultation,3522,0.0,Unpaid,Insurance,Nakuru,Yes
+PT-00060,2023-01-03 11:00:00,Moi Referral,Surgery,3871,3871.0,Paid,Cash,Mombasa,No
+PT-00061,2023-01-03 12:00:00,Moi Referral,Physiotherapy,3330,0.0,Unpaid,Mpesa,Kiambu,No
+PT-00062,2023-01-03 13:00:00,Mbagathi Hospital,Radiology,542,542.0,Paid,Mpesa,Kiambu,Yes
+PT-00063,2023-01-03 14:00:00,Aga Khan,Consultation,1443,711.44,Partially Paid,Insurance,Nakuru,Yes
+PT-00064,2023-01-03 15:00:00,Moi Referral,Consultation,2890,2263.89,Partially Paid,Mpesa,Nakuru,Yes
+PT-00065,2023-01-03 16:00:00,Moi Referral,Radiology,3045,3045.0,Paid,NHIF,Nairobi,Yes
+PT-00066,2023-01-03 17:00:00,Mbagathi Hospital,Medication,2911,1888.03,Partially Paid,Cash,Uasin Gishu,No
+PT-00067,2023-01-03 18:00:00,Moi Referral,Physiotherapy,1504,1504.0,Paid,Mpesa,Kisumu,No
+PT-00068,2023-01-03 19:00:00,Moi Referral,Lab Test,520,520.0,Paid,NHIF,Kiambu,Yes
+PT-00069,2023-01-03 20:00:00,Mbagathi Hospital,Surgery,906,309.5,Partially Paid,Insurance,Kiambu,No
+PT-00070,2023-01-03 21:00:00,Mbagathi Hospital,Lab Test,1514,1514.0,Paid,NHIF,Nakuru,No
+PT-00071,2023-01-03 22:00:00,Kenyatta National Hospital,Radiology,4931,0.0,Unpaid,Insurance,Uasin Gishu,No
+PT-00072,2023-01-03 23:00:00,Aga Khan,Consultation,2338,0.0,Unpaid,Insurance,Kiambu,No
+PT-00073,2023-01-04 00:00:00,Aga Khan,Consultation,3688,2697.7,Partially Paid,Cash,Kisumu,Yes
+PT-00074,2023-01-04 01:00:00,Moi Referral,Surgery,1214,655.9,Partially Paid,Cash,Nakuru,No
+PT-00075,2023-01-04 02:00:00,Aga Khan,Consultation,4646,4646.0,Paid,NHIF,Kisumu,No
+PT-00076,2023-01-04 03:00:00,Moi Referral,Consultation,4354,4354.0,Paid,Cash,Uasin Gishu,No
+PT-00077,2023-01-04 04:00:00,Kenyatta National Hospital,Surgery,4919,4919.0,Paid,Cash,Kiambu,No
+PT-00078,2023-01-04 05:00:00,Mbagathi Hospital,Physiotherapy,640,640.0,Paid,Cash,Mombasa,Yes
+PT-00079,2023-01-04 06:00:00,Mbagathi Hospital,Physiotherapy,1463,0.0,Unpaid,NHIF,Kiambu,No
+PT-00080,2023-01-04 07:00:00,Mbagathi Hospital,Surgery,872,0.0,Unpaid,Mpesa,Uasin Gishu,Yes
+PT-00081,2023-01-04 08:00:00,Aga Khan,Radiology,4135,1382.65,Partially Paid,Cash,Kiambu,No
+PT-00082,2023-01-04 09:00:00,Kenyatta National Hospital,Consultation,3041,3041.0,Paid,Cash,Kiambu,No
+PT-00083,2023-01-04 10:00:00,Aga Khan,Consultation,4110,4110.0,Paid,NHIF,Nairobi,Yes
+PT-00084,2023-01-04 11:00:00,Aga Khan,Radiology,2192,1260.09,Partially Paid,Mpesa,Kiambu,No
+PT-00085,2023-01-04 12:00:00,Kenyatta National Hospital,Physiotherapy,605,605.0,Paid,Cash,Kiambu,Yes
+PT-00086,2023-01-04 13:00:00,Kenyatta National Hospital,Medication,2181,2181.0,Paid,Insurance,Kisumu,No
+PT-00087,2023-01-04 14:00:00,Kenyatta National Hospital,Medication,4597,4597.0,Paid,NHIF,Mombasa,No
+PT-00088,2023-01-04 15:00:00,Kenyatta National Hospital,Medication,4516,4516.0,Paid,Cash,Kisumu,No
+PT-00089,2023-01-04 16:00:00,Mbagathi Hospital,Physiotherapy,3136,3136.0,Paid,Cash,Kisumu,No
+PT-00090,2023-01-04 17:00:00,Nairobi West,Physiotherapy,2637,1341.13,Partially Paid,Insurance,Nakuru,No
+PT-00091,2023-01-04 18:00:00,Nairobi West,Radiology,3916,3916.0,Paid,Insurance,Nairobi,No
+PT-00092,2023-01-04 19:00:00,Kenyatta National Hospital,Consultation,4945,3653.74,Partially Paid,NHIF,Kisumu,No
+PT-00093,2023-01-04 20:00:00,Nairobi West,Radiology,4030,4030.0,Paid,NHIF,Uasin Gishu,No
+PT-00094,2023-01-04 21:00:00,Nairobi West,Radiology,1786,0.0,Unpaid,Insurance,Uasin Gishu,Yes
+PT-00095,2023-01-04 22:00:00,Kenyatta National Hospital,Physiotherapy,3679,0.0,Unpaid,NHIF,Kiambu,No
+PT-00096,2023-01-04 23:00:00,Nairobi West,Medication,4154,0.0,Unpaid,Insurance,Nakuru,Yes
+PT-00097,2023-01-05 00:00:00,Aga Khan,Lab Test,2859,0.0,Unpaid,Cash,Nairobi,No
+PT-00098,2023-01-05 01:00:00,Moi Referral,Consultation,944,379.49,Partially Paid,Insurance,Nairobi,Yes
+PT-00099,2023-01-05 02:00:00,Moi Referral,Physiotherapy,535,381.58,Partially Paid,Insurance,Kiambu,Yes
+PT-00100,2023-01-05 03:00:00,Kenyatta National Hospital,Medication,1975,1975.0,Paid,Mpesa,Uasin Gishu,No
+PT-00101,2023-01-05 04:00:00,Mbagathi Hospital,Lab Test,4457,0.0,Unpaid,Insurance,Mombasa,No
+PT-00102,2023-01-05 05:00:00,Kenyatta National Hospital,Lab Test,2298,1330.18,Partially Paid,Insurance,Nakuru,Yes
+PT-00103,2023-01-05 06:00:00,Mbagathi Hospital,Physiotherapy,2345,2345.0,Paid,Mpesa,Kiambu,Yes
+PT-00104,2023-01-05 07:00:00,Moi Referral,Surgery,1908,1908.0,Paid,NHIF,Nakuru,No
+PT-00105,2023-01-05 08:00:00,Kenyatta National Hospital,Consultation,2208,722.69,Partially Paid,Mpesa,Uasin Gishu,No
+PT-00106,2023-01-05 09:00:00,Aga Khan,Lab Test,3438,0.0,Unpaid,Cash,Uasin Gishu,Yes
+PT-00107,2023-01-05 10:00:00,Nairobi West,Physiotherapy,1800,1800.0,Paid,Mpesa,Mombasa,Yes
+PT-00108,2023-01-05 11:00:00,Mbagathi Hospital,Physiotherapy,1743,0.0,Unpaid,Cash,Mombasa,No
+PT-00109,2023-01-05 12:00:00,Nairobi West,Medication,4476,0.0,Unpaid,NHIF,Nairobi,Yes
+PT-00110,2023-01-05 13:00:00,Nairobi West,Surgery,3597,0.0,Unpaid,Mpesa,Nakuru,No
+PT-00111,2023-01-05 14:00:00,Kenyatta National Hospital,Consultation,509,509.0,Paid,Mpesa,Nakuru,No
+PT-00112,2023-01-05 15:00:00,Nairobi West,Radiology,2925,0.0,Unpaid,NHIF,Uasin Gishu,No
+PT-00113,2023-01-05 16:00:00,Aga Khan,Medication,2160,2160.0,Paid,Cash,Nairobi,Yes
+PT-00114,2023-01-05 17:00:00,Nairobi West,Lab Test,3131,0.0,Unpaid,Mpesa,Kiambu,No
+PT-00115,2023-01-05 18:00:00,Kenyatta National Hospital,Lab Test,1572,1572.0,Paid,Cash,Nakuru,No
+PT-00116,2023-01-05 19:00:00,Aga Khan,Medication,3725,0.0,Unpaid,Mpesa,Nairobi,No
+PT-00117,2023-01-05 20:00:00,Moi Referral,Physiotherapy,1816,1427.24,Partially Paid,Insurance,Nairobi,No
+PT-00118,2023-01-05 21:00:00,Nairobi West,Lab Test,4645,0.0,Unpaid,Mpesa,Uasin Gishu,No
+PT-00119,2023-01-05 22:00:00,Kenyatta National Hospital,Surgery,4183,0.0,Unpaid,NHIF,Nairobi,No
+PT-00120,2023-01-05 23:00:00,Moi Referral,Consultation,3773,3773.0,Paid,NHIF,Mombasa,No
+PT-00121,2023-01-06 00:00:00,Moi Referral,Surgery,645,645.0,Paid,Cash,Mombasa,No
+PT-00122,2023-01-06 01:00:00,Mbagathi Hospital,Lab Test,3540,0.0,Unpaid,Mpesa,Kisumu,No
+PT-00123,2023-01-06 02:00:00,Aga Khan,Radiology,1962,1091.48,Partially Paid,Cash,Uasin Gishu,No
+PT-00124,2023-01-06 03:00:00,Nairobi West,Consultation,2084,928.29,Partially Paid,Cash,Kiambu,Yes
+PT-00125,2023-01-06 04:00:00,Kenyatta National Hospital,Consultation,982,982.0,Paid,Insurance,Kisumu,No
+PT-00126,2023-01-06 05:00:00,Mbagathi Hospital,Medication,3679,1967.17,Partially Paid,Insurance,Mombasa,No
+PT-00127,2023-01-06 06:00:00,Aga Khan,Medication,1749,0.0,Unpaid,NHIF,Kisumu,Yes
+PT-00128,2023-01-06 07:00:00,Mbagathi Hospital,Radiology,1130,1130.0,Paid,Cash,Uasin Gishu,Yes
+PT-00129,2023-01-06 08:00:00,Aga Khan,Physiotherapy,1161,0.0,Unpaid,NHIF,Uasin Gishu,No
+PT-00130,2023-01-06 09:00:00,Aga Khan,Consultation,4003,4003.0,Paid,Mpesa,Nairobi,No
+PT-00131,2023-01-06 10:00:00,Nairobi West,Radiology,3352,3352.0,Paid,Cash,Nakuru,No
+PT-00132,2023-01-06 11:00:00,Aga Khan,Medication,2966,2966.0,Paid,Cash,Nairobi,Yes
+PT-00133,2023-01-06 12:00:00,Mbagathi Hospital,Medication,1487,1487.0,Paid,Mpesa,Uasin Gishu,No
+PT-00134,2023-01-06 13:00:00,Aga Khan,Consultation,2046,1491.39,Partially Paid,Mpesa,Mombasa,Yes
+PT-00135,2023-01-06 14:00:00,Nairobi West,Surgery,1149,0.0,Unpaid,NHIF,Kiambu,No
+PT-00136,2023-01-06 15:00:00,Nairobi West,Lab Test,1468,0.0,Unpaid,NHIF,Mombasa,Yes
+PT-00137,2023-01-06 16:00:00,Mbagathi Hospital,Medication,3137,0.0,Unpaid,Mpesa,Nairobi,Yes
+PT-00138,2023-01-06 17:00:00,Moi Referral,Physiotherapy,1600,1600.0,Paid,NHIF,Kiambu,Yes
+PT-00139,2023-01-06 18:00:00,Moi Referral,Physiotherapy,940,425.3,Partially Paid,Mpesa,Uasin Gishu,Yes
+PT-00140,2023-01-06 19:00:00,Aga Khan,Medication,1269,0.0,Unpaid,Cash,Mombasa,Yes
+PT-00141,2023-01-06 20:00:00,Kenyatta National Hospital,Surgery,1843,730.45,Partially Paid,Cash,Uasin Gishu,Yes
+PT-00142,2023-01-06 21:00:00,Aga Khan,Surgery,4858,4858.0,Paid,Insurance,Kiambu,No
+PT-00143,2023-01-06 22:00:00,Mbagathi Hospital,Radiology,4229,0.0,Unpaid,Cash,Kiambu,No
+PT-00144,2023-01-06 23:00:00,Mbagathi Hospital,Physiotherapy,4406,1606.14,Partially Paid,Mpesa,Mombasa,Yes
+PT-00145,2023-01-07 00:00:00,Mbagathi Hospital,Radiology,2077,2077.0,Paid,NHIF,Uasin Gishu,No
+PT-00146,2023-01-07 01:00:00,Mbagathi Hospital,Physiotherapy,4508,2023.78,Partially Paid,Insurance,Kisumu,Yes
+PT-00147,2023-01-07 02:00:00,Mbagathi Hospital,Lab Test,3851,0.0,Unpaid,NHIF,Uasin Gishu,No
+PT-00148,2023-01-07 03:00:00,Nairobi West,Lab Test,2849,0.0,Unpaid,Mpesa,Kiambu,Yes
+PT-00149,2023-01-07 04:00:00,Moi Referral,Consultation,4102,4102.0,Paid,Cash,Uasin Gishu,Yes
+PT-00150,2023-01-07 05:00:00,Mbagathi Hospital,Radiology,1741,1741.0,Paid,Insurance,Nairobi,No
+PT-00151,2023-01-07 06:00:00,Kenyatta National Hospital,Medication,1625,1625.0,Paid,Mpesa,Kisumu,No
+PT-00152,2023-01-07 07:00:00,Kenyatta National Hospital,Radiology,3101,2139.76,Partially Paid,Insurance,Nakuru,No
+PT-00153,2023-01-07 08:00:00,Kenyatta National Hospital,Medication,1690,905.52,Partially Paid,Insurance,Nairobi,No
+PT-00154,2023-01-07 09:00:00,Kenyatta National Hospital,Surgery,4631,1916.03,Partially Paid,Cash,Nakuru,No
+PT-00155,2023-01-07 10:00:00,Nairobi West,Radiology,4948,4948.0,Paid,Mpesa,Mombasa,Yes
+PT-00156,2023-01-07 11:00:00,Kenyatta National Hospital,Surgery,572,0.0,Unpaid,NHIF,Nakuru,Yes
+PT-00157,2023-01-07 12:00:00,Mbagathi Hospital,Lab Test,2414,0.0,Unpaid,Insurance,Uasin Gishu,Yes
+PT-00158,2023-01-07 13:00:00,Aga Khan,Lab Test,2972,1138.55,Partially Paid,Insurance,Nakuru,Yes
+PT-00159,2023-01-07 14:00:00,Kenyatta National Hospital,Consultation,3546,1653.73,Partially Paid,NHIF,Kiambu,No
+PT-00160,2023-01-07 15:00:00,Nairobi West,Radiology,1207,0.0,Unpaid,Mpesa,Nairobi,No
+PT-00161,2023-01-07 16:00:00,Nairobi West,Surgery,2304,0.0,Unpaid,Insurance,Nairobi,Yes
+PT-00162,2023-01-07 17:00:00,Kenyatta National Hospital,Medication,4213,3243.85,Partially Paid,Insurance,Nakuru,No
+PT-00163,2023-01-07 18:00:00,Aga Khan,Lab Test,3064,1444.72,Partially Paid,Insurance,Nairobi,No
+PT-00164,2023-01-07 19:00:00,Kenyatta National Hospital,Lab Test,2975,0.0,Unpaid,Mpesa,Kiambu,Yes
+PT-00165,2023-01-07 20:00:00,Nairobi West,Medication,4110,4110.0,Paid,Mpesa,Nairobi,Yes
+PT-00166,2023-01-07 21:00:00,Moi Referral,Surgery,4755,3775.76,Partially Paid,NHIF,Nakuru,Yes
+PT-00167,2023-01-07 22:00:00,Mbagathi Hospital,Surgery,3323,0.0,Unpaid,Mpesa,Kisumu,Yes
+PT-00168,2023-01-07 23:00:00,Nairobi West,Radiology,2235,0.0,Unpaid,Mpesa,Kisumu,Yes
+PT-00169,2023-01-08 00:00:00,Kenyatta National Hospital,Radiology,2085,0.0,Unpaid,Cash,Mombasa,No
+PT-00170,2023-01-08 01:00:00,Mbagathi Hospital,Physiotherapy,566,0.0,Unpaid,NHIF,Nairobi,Yes
+PT-00171,2023-01-08 02:00:00,Kenyatta National Hospital,Physiotherapy,3561,3561.0,Paid,Insurance,Nakuru,Yes
+PT-00172,2023-01-08 03:00:00,Kenyatta National Hospital,Consultation,2928,0.0,Unpaid,Mpesa,Nairobi,No
+PT-00173,2023-01-08 04:00:00,Moi Referral,Lab Test,4653,2524.79,Partially Paid,Insurance,Uasin Gishu,No
+PT-00174,2023-01-08 05:00:00,Mbagathi Hospital,Radiology,841,841.0,Paid,Insurance,Kiambu,No
+PT-00175,2023-01-08 06:00:00,Mbagathi Hospital,Surgery,3274,0.0,Unpaid,Cash,Nairobi,Yes
+PT-00176,2023-01-08 07:00:00,Moi Referral,Medication,3317,3317.0,Paid,Mpesa,Nairobi,Yes
+PT-00177,2023-01-08 08:00:00,Nairobi West,Surgery,3161,1231.47,Partially Paid,NHIF,Kisumu,No
+PT-00178,2023-01-08 09:00:00,Kenyatta National Hospital,Lab Test,1732,0.0,Unpaid,Mpesa,Kiambu,Yes
+PT-00179,2023-01-08 10:00:00,Aga Khan,Physiotherapy,4374,3261.12,Partially Paid,Insurance,Nakuru,Yes
+PT-00180,2023-01-08 11:00:00,Kenyatta National Hospital,Surgery,2901,0.0,Unpaid,NHIF,Nairobi,No
+PT-00181,2023-01-08 12:00:00,Kenyatta National Hospital,Consultation,1994,0.0,Unpaid,Mpesa,Kisumu,No
+PT-00182,2023-01-08 13:00:00,Nairobi West,Lab Test,4711,0.0,Unpaid,Insurance,Mombasa,No
+PT-00183,2023-01-08 14:00:00,Kenyatta National Hospital,Physiotherapy,1161,0.0,Unpaid,Insurance,Kiambu,No
+PT-00184,2023-01-08 15:00:00,Moi Referral,Medication,4383,0.0,Unpaid,Cash,Kisumu,No
+PT-00185,2023-01-08 16:00:00,Moi Referral,Physiotherapy,4119,4119.0,Paid,Cash,Kisumu,Yes
+PT-00186,2023-01-08 17:00:00,Mbagathi Hospital,Consultation,2368,0.0,Unpaid,Cash,Kisumu,Yes
+PT-00187,2023-01-08 18:00:00,Aga Khan,Lab Test,2834,0.0,Unpaid,Insurance,Nairobi,Yes
+PT-00188,2023-01-08 19:00:00,Kenyatta National Hospital,Medication,3874,3874.0,Paid,Mpesa,Nairobi,Yes
+PT-00189,2023-01-08 20:00:00,Kenyatta National Hospital,Consultation,1516,1516.0,Paid,Cash,Mombasa,No
+PT-00190,2023-01-08 21:00:00,Nairobi West,Physiotherapy,4906,4906.0,Paid,Mpesa,Uasin Gishu,No
+PT-00191,2023-01-08 22:00:00,Moi Referral,Consultation,707,707.0,Paid,Cash,Uasin Gishu,No
+PT-00192,2023-01-08 23:00:00,Aga Khan,Lab Test,3165,3165.0,Paid,NHIF,Uasin Gishu,Yes
+PT-00193,2023-01-09 00:00:00,Mbagathi Hospital,Radiology,2993,2993.0,Paid,NHIF,Kiambu,Yes
+PT-00194,2023-01-09 01:00:00,Moi Referral,Consultation,1132,0.0,Unpaid,Cash,Kiambu,Yes
+PT-00195,2023-01-09 02:00:00,Mbagathi Hospital,Consultation,2602,0.0,Unpaid,Insurance,Mombasa,Yes
+PT-00196,2023-01-09 03:00:00,Nairobi West,Physiotherapy,3459,1833.88,Partially Paid,Cash,Kiambu,Yes
+PT-00197,2023-01-09 04:00:00,Nairobi West,Physiotherapy,3583,0.0,Unpaid,Cash,Uasin Gishu,No
+PT-00198,2023-01-09 05:00:00,Kenyatta National Hospital,Medication,2431,0.0,Unpaid,Insurance,Uasin Gishu,No
+PT-00199,2023-01-09 06:00:00,Aga Khan,Physiotherapy,4219,4219.0,Paid,NHIF,Kisumu,No
+PT-00200,2023-01-09 07:00:00,Mbagathi Hospital,Surgery,3062,3062.0,Paid,Mpesa,Kiambu,No
+PT-00201,2023-01-09 08:00:00,Moi Referral,Lab Test,2179,0.0,Unpaid,Cash,Nairobi,No
+PT-00202,2023-01-09 09:00:00,Nairobi West,Lab Test,736,481.96,Partially Paid,Insurance,Nairobi,Yes
+PT-00203,2023-01-09 10:00:00,Kenyatta National Hospital,Radiology,4943,4943.0,Paid,Cash,Kisumu,Yes
+PT-00204,2023-01-09 11:00:00,Kenyatta National Hospital,Radiology,2040,0.0,Unpaid,Insurance,Kisumu,Yes
+PT-00205,2023-01-09 12:00:00,Mbagathi Hospital,Lab Test,4443,0.0,Unpaid,Mpesa,Kisumu,No
+PT-00206,2023-01-09 13:00:00,Nairobi West,Radiology,863,683.37,Partially Paid,Mpesa,Nairobi,No
+PT-00207,2023-01-09 14:00:00,Aga Khan,Medication,2868,932.35,Partially Paid,NHIF,Uasin Gishu,Yes
+PT-00208,2023-01-09 15:00:00,Nairobi West,Physiotherapy,785,785.0,Paid,Insurance,Kisumu,No
+PT-00209,2023-01-09 16:00:00,Mbagathi Hospital,Lab Test,648,225.73,Partially Paid,Insurance,Mombasa,No
+PT-00210,2023-01-09 17:00:00,Mbagathi Hospital,Radiology,4537,0.0,Unpaid,NHIF,Kisumu,Yes
+PT-00211,2023-01-09 18:00:00,Nairobi West,Lab Test,2266,0.0,Unpaid,NHIF,Nakuru,Yes
+PT-00212,2023-01-09 19:00:00,Mbagathi Hospital,Surgery,1512,998.27,Partially Paid,Insurance,Kisumu,No
+PT-00213,2023-01-09 20:00:00,Nairobi West,Consultation,3331,1468.68,Partially Paid,NHIF,Nairobi,No
+PT-00214,2023-01-09 21:00:00,Moi Referral,Physiotherapy,3007,1179.2,Partially Paid,Mpesa,Kiambu,Yes
+PT-00215,2023-01-09 22:00:00,Nairobi West,Lab Test,2023,646.71,Partially Paid,Cash,Kisumu,No
+PT-00216,2023-01-09 23:00:00,Nairobi West,Consultation,3285,3285.0,Paid,Mpesa,Kiambu,Yes
+PT-00217,2023-01-10 00:00:00,Mbagathi Hospital,Radiology,3056,950.18,Partially Paid,NHIF,Nakuru,No
+PT-00218,2023-01-10 01:00:00,Mbagathi Hospital,Consultation,4225,4225.0,Paid,Insurance,Mombasa,No
+PT-00219,2023-01-10 02:00:00,Kenyatta National Hospital,Physiotherapy,2101,0.0,Unpaid,Insurance,Kiambu,No
+PT-00220,2023-01-10 03:00:00,Kenyatta National Hospital,Lab Test,2908,1998.5,Partially Paid,Mpesa,Uasin Gishu,No
+PT-00221,2023-01-10 04:00:00,Moi Referral,Surgery,840,840.0,Paid,Insurance,Kisumu,No
+PT-00222,2023-01-10 05:00:00,Kenyatta National Hospital,Radiology,3317,1218.06,Partially Paid,NHIF,Nakuru,No
+PT-00223,2023-01-10 06:00:00,Nairobi West,Lab Test,2996,0.0,Unpaid,Mpesa,Nakuru,Yes
+PT-00224,2023-01-10 07:00:00,Mbagathi Hospital,Physiotherapy,2225,0.0,Unpaid,Insurance,Kiambu,No
+PT-00225,2023-01-10 08:00:00,Kenyatta National Hospital,Radiology,2189,0.0,Unpaid,Cash,Mombasa,Yes
+PT-00226,2023-01-10 09:00:00,Kenyatta National Hospital,Medication,3767,2011.05,Partially Paid,Cash,Nairobi,No
+PT-00227,2023-01-10 10:00:00,Moi Referral,Consultation,4906,2958.06,Partially Paid,NHIF,Kisumu,No
+PT-00228,2023-01-10 11:00:00,Moi Referral,Physiotherapy,761,761.0,Paid,Insurance,Nakuru,No
+PT-00229,2023-01-10 12:00:00,Nairobi West,Medication,1942,0.0,Unpaid,NHIF,Mombasa,No
+PT-00230,2023-01-10 13:00:00,Mbagathi Hospital,Lab Test,905,465.33,Partially Paid,Mpesa,Uasin Gishu,No
+PT-00231,2023-01-10 14:00:00,Moi Referral,Surgery,2690,0.0,Unpaid,Cash,Nakuru,Yes
+PT-00232,2023-01-10 15:00:00,Kenyatta National Hospital,Radiology,4937,0.0,Unpaid,Mpesa,Mombasa,No
+PT-00233,2023-01-10 16:00:00,Mbagathi Hospital,Consultation,743,743.0,Paid,Insurance,Nairobi,Yes
+PT-00234,2023-01-10 17:00:00,Mbagathi Hospital,Radiology,4607,4607.0,Paid,NHIF,Nairobi,Yes
+PT-00235,2023-01-10 18:00:00,Kenyatta National Hospital,Lab Test,1060,1060.0,Paid,NHIF,Nakuru,Yes
+PT-00236,2023-01-10 19:00:00,Moi Referral,Radiology,4637,4637.0,Paid,NHIF,Nakuru,No
+PT-00237,2023-01-10 20:00:00,Kenyatta National Hospital,Consultation,3225,0.0,Unpaid,Mpesa,Kiambu,No
+PT-00238,2023-01-10 21:00:00,Mbagathi Hospital,Lab Test,1093,1093.0,Paid,Cash,Kisumu,No
+PT-00239,2023-01-10 22:00:00,Aga Khan,Radiology,2326,2326.0,Paid,Mpesa,Mombasa,No
+PT-00240,2023-01-10 23:00:00,Aga Khan,Surgery,3729,3729.0,Paid,Mpesa,Nakuru,Yes
+PT-00241,2023-01-11 00:00:00,Nairobi West,Physiotherapy,3787,3787.0,Paid,Insurance,Kisumu,Yes
+PT-00242,2023-01-11 01:00:00,Kenyatta National Hospital,Lab Test,4573,0.0,Unpaid,Insurance,Kiambu,No
+PT-00243,2023-01-11 02:00:00,Kenyatta National Hospital,Physiotherapy,633,633.0,Paid,Insurance,Kisumu,No
+PT-00244,2023-01-11 03:00:00,Nairobi West,Lab Test,3638,0.0,Unpaid,Cash,Nakuru,No
+PT-00245,2023-01-11 04:00:00,Nairobi West,Surgery,4419,1385.59,Partially Paid,Cash,Nairobi,Yes
+PT-00246,2023-01-11 05:00:00,Nairobi West,Physiotherapy,572,0.0,Unpaid,Insurance,Mombasa,No
+PT-00247,2023-01-11 06:00:00,Mbagathi Hospital,Medication,4994,0.0,Unpaid,Insurance,Mombasa,No
+PT-00248,2023-01-11 07:00:00,Kenyatta National Hospital,Consultation,4725,4725.0,Paid,Cash,Nairobi,Yes
+PT-00249,2023-01-11 08:00:00,Mbagathi Hospital,Medication,3478,2405.91,Partially Paid,NHIF,Nakuru,No
+PT-00250,2023-01-11 09:00:00,Nairobi West,Radiology,4861,1483.85,Partially Paid,Cash,Mombasa,No
+PT-00251,2023-01-11 10:00:00,Kenyatta National Hospital,Surgery,2485,1692.15,Partially Paid,Cash,Nakuru,No
+PT-00252,2023-01-11 11:00:00,Mbagathi Hospital,Medication,1292,964.67,Partially Paid,Cash,Kiambu,Yes
+PT-00253,2023-01-11 12:00:00,Mbagathi Hospital,Lab Test,4759,0.0,Unpaid,Insurance,Nakuru,No
+PT-00254,2023-01-11 13:00:00,Nairobi West,Radiology,594,306.75,Partially Paid,NHIF,Kisumu,Yes
+PT-00255,2023-01-11 14:00:00,Kenyatta National Hospital,Radiology,1633,0.0,Unpaid,Cash,Nairobi,Yes
+PT-00256,2023-01-11 15:00:00,Nairobi West,Medication,737,0.0,Unpaid,Insurance,Nakuru,No
+PT-00257,2023-01-11 16:00:00,Kenyatta National Hospital,Medication,3446,0.0,Unpaid,Mpesa,Kiambu,No
+PT-00258,2023-01-11 17:00:00,Aga Khan,Surgery,3030,1720.35,Partially Paid,Mpesa,Uasin Gishu,Yes
+PT-00259,2023-01-11 18:00:00,Moi Referral,Consultation,2460,2460.0,Paid,Cash,Nairobi,No
+PT-00260,2023-01-11 19:00:00,Moi Referral,Medication,1548,1548.0,Paid,Mpesa,Mombasa,No
+PT-00261,2023-01-11 20:00:00,Moi Referral,Medication,3029,1631.09,Partially Paid,NHIF,Kisumu,No
+PT-00262,2023-01-11 21:00:00,Nairobi West,Physiotherapy,3464,3464.0,Paid,Mpesa,Mombasa,No
+PT-00263,2023-01-11 22:00:00,Aga Khan,Lab Test,1463,1463.0,Paid,Mpesa,Kiambu,No
+PT-00264,2023-01-11 23:00:00,Kenyatta National Hospital,Physiotherapy,1036,0.0,Unpaid,NHIF,Kiambu,No
+PT-00265,2023-01-12 00:00:00,Mbagathi Hospital,Physiotherapy,4723,0.0,Unpaid,Cash,Mombasa,Yes
+PT-00266,2023-01-12 01:00:00,Kenyatta National Hospital,Radiology,4179,2066.95,Partially Paid,Cash,Nairobi,Yes
+PT-00267,2023-01-12 02:00:00,Mbagathi Hospital,Consultation,4687,3485.78,Partially Paid,NHIF,Mombasa,No
+PT-00268,2023-01-12 03:00:00,Kenyatta National Hospital,Lab Test,4224,4224.0,Paid,NHIF,Nakuru,No
+PT-00269,2023-01-12 04:00:00,Aga Khan,Surgery,1042,0.0,Unpaid,NHIF,Mombasa,No
+PT-00270,2023-01-12 05:00:00,Mbagathi Hospital,Surgery,1345,1004.67,Partially Paid,Mpesa,Kisumu,Yes
+PT-00271,2023-01-12 06:00:00,Nairobi West,Medication,4103,1919.83,Partially Paid,NHIF,Kisumu,Yes
+PT-00272,2023-01-12 07:00:00,Kenyatta National Hospital,Medication,3536,2148.24,Partially Paid,Insurance,Uasin Gishu,No
+PT-00273,2023-01-12 08:00:00,Kenyatta National Hospital,Surgery,2994,2285.78,Partially Paid,Mpesa,Kisumu,Yes
+PT-00274,2023-01-12 09:00:00,Mbagathi Hospital,Medication,4985,3893.43,Partially Paid,Cash,Mombasa,No
+PT-00275,2023-01-12 10:00:00,Nairobi West,Consultation,3219,1784.87,Partially Paid,Cash,Kisumu,Yes
+PT-00276,2023-01-12 11:00:00,Nairobi West,Physiotherapy,2384,2384.0,Paid,Cash,Nairobi,No
+PT-00277,2023-01-12 12:00:00,Aga Khan,Medication,4638,0.0,Unpaid,Mpesa,Kisumu,No
+PT-00278,2023-01-12 13:00:00,Nairobi West,Radiology,4849,0.0,Unpaid,Insurance,Nakuru,Yes
+PT-00279,2023-01-12 14:00:00,Nairobi West,Medication,3701,1948.25,Partially Paid,NHIF,Nairobi,No
+PT-00280,2023-01-12 15:00:00,Nairobi West,Lab Test,3210,0.0,Unpaid,NHIF,Uasin Gishu,Yes
+PT-00281,2023-01-12 16:00:00,Moi Referral,Consultation,2453,0.0,Unpaid,Cash,Nakuru,No
+PT-00282,2023-01-12 17:00:00,Aga Khan,Lab Test,4350,0.0,Unpaid,Cash,Mombasa,No
+PT-00283,2023-01-12 18:00:00,Kenyatta National Hospital,Lab Test,1189,522.38,Partially Paid,Mpesa,Mombasa,No
+PT-00284,2023-01-12 19:00:00,Mbagathi Hospital,Radiology,2450,1909.62,Partially Paid,Insurance,Mombasa,No
+PT-00285,2023-01-12 20:00:00,Kenyatta National Hospital,Consultation,956,0.0,Unpaid,NHIF,Nakuru,No
+PT-00286,2023-01-12 21:00:00,Aga Khan,Consultation,2630,0.0,Unpaid,Mpesa,Nakuru,Yes
+PT-00287,2023-01-12 22:00:00,Mbagathi Hospital,Consultation,4476,1662.42,Partially Paid,NHIF,Nakuru,Yes
+PT-00288,2023-01-12 23:00:00,Aga Khan,Consultation,4744,4744.0,Paid,Cash,Nairobi,No
+PT-00289,2023-01-13 00:00:00,Nairobi West,Consultation,1679,0.0,Unpaid,NHIF,Kiambu,No
+PT-00290,2023-01-13 01:00:00,Mbagathi Hospital,Radiology,4785,4785.0,Paid,Insurance,Nairobi,No
+PT-00291,2023-01-13 02:00:00,Nairobi West,Medication,4065,0.0,Unpaid,Insurance,Mombasa,No
+PT-00292,2023-01-13 03:00:00,Kenyatta National Hospital,Lab Test,1382,1382.0,Paid,Cash,Kiambu,No
+PT-00293,2023-01-13 04:00:00,Kenyatta National Hospital,Consultation,899,899.0,Paid,Insurance,Kisumu,No
+PT-00294,2023-01-13 05:00:00,Mbagathi Hospital,Medication,1108,1108.0,Paid,Insurance,Mombasa,No
+PT-00295,2023-01-13 06:00:00,Mbagathi Hospital,Medication,2138,1261.24,Partially Paid,Mpesa,Uasin Gishu,No
+PT-00296,2023-01-13 07:00:00,Aga Khan,Lab Test,2648,2648.0,Paid,NHIF,Nairobi,No
+PT-00297,2023-01-13 08:00:00,Aga Khan,Radiology,1882,1882.0,Paid,Cash,Nakuru,Yes
+PT-00298,2023-01-13 09:00:00,Nairobi West,Surgery,1903,1903.0,Paid,Cash,Nairobi,Yes
+PT-00299,2023-01-13 10:00:00,Mbagathi Hospital,Surgery,1319,0.0,Unpaid,Cash,Nakuru,Yes
+PT-00300,2023-01-13 11:00:00,Kenyatta National Hospital,Medication,3792,3792.0,Paid,Cash,Kiambu,Yes
+PT-00301,2023-01-13 12:00:00,Aga Khan,Physiotherapy,1319,0.0,Unpaid,Cash,Uasin Gishu,Yes
+PT-00302,2023-01-13 13:00:00,Aga Khan,Physiotherapy,919,919.0,Paid,Insurance,Kiambu,No
+PT-00303,2023-01-13 14:00:00,Kenyatta National Hospital,Lab Test,4719,4719.0,Paid,Mpesa,Uasin Gishu,No
+PT-00304,2023-01-13 15:00:00,Aga Khan,Surgery,3802,1677.73,Partially Paid,Cash,Nairobi,No
+PT-00305,2023-01-13 16:00:00,Nairobi West,Medication,2008,0.0,Unpaid,Mpesa,Nakuru,No
+PT-00306,2023-01-13 17:00:00,Mbagathi Hospital,Radiology,1267,1267.0,Paid,Mpesa,Kiambu,Yes
+PT-00307,2023-01-13 18:00:00,Kenyatta National Hospital,Surgery,2544,0.0,Unpaid,Insurance,Uasin Gishu,Yes
+PT-00308,2023-01-13 19:00:00,Mbagathi Hospital,Medication,2639,0.0,Unpaid,Cash,Mombasa,Yes
+PT-00309,2023-01-13 20:00:00,Aga Khan,Medication,3529,1551.01,Partially Paid,Insurance,Mombasa,No
+PT-00310,2023-01-13 21:00:00,Aga Khan,Consultation,2049,1029.59,Partially Paid,Cash,Kiambu,Yes
+PT-00311,2023-01-13 22:00:00,Kenyatta National Hospital,Radiology,2264,1809.83,Partially Paid,Insurance,Nakuru,Yes
+PT-00312,2023-01-13 23:00:00,Nairobi West,Consultation,3145,1029.93,Partially Paid,Mpesa,Kiambu,No
+PT-00313,2023-01-14 00:00:00,Moi Referral,Lab Test,4216,2484.37,Partially Paid,Cash,Nairobi,No
+PT-00314,2023-01-14 01:00:00,Kenyatta National Hospital,Consultation,4981,1699.95,Partially Paid,NHIF,Uasin Gishu,Yes
+PT-00315,2023-01-14 02:00:00,Moi Referral,Consultation,2793,1053.69,Partially Paid,Mpesa,Nairobi,No
+PT-00316,2023-01-14 03:00:00,Moi Referral,Surgery,3208,1667.46,Partially Paid,NHIF,Mombasa,No
+PT-00317,2023-01-14 04:00:00,Nairobi West,Physiotherapy,1400,1400.0,Paid,Mpesa,Uasin Gishu,No
+PT-00318,2023-01-14 05:00:00,Moi Referral,Medication,3584,0.0,Unpaid,Insurance,Kiambu,No
+PT-00319,2023-01-14 06:00:00,Moi Referral,Radiology,2509,1393.07,Partially Paid,Cash,Nairobi,Yes
+PT-00320,2023-01-14 07:00:00,Nairobi West,Consultation,741,318.18,Partially Paid,Mpesa,Kisumu,Yes
+PT-00321,2023-01-14 08:00:00,Moi Referral,Radiology,2885,0.0,Unpaid,Insurance,Nakuru,No
+PT-00322,2023-01-14 09:00:00,Moi Referral,Physiotherapy,4768,4768.0,Paid,Cash,Nakuru,No
+PT-00323,2023-01-14 10:00:00,Moi Referral,Physiotherapy,1171,0.0,Unpaid,Cash,Kisumu,No
+PT-00324,2023-01-14 11:00:00,Kenyatta National Hospital,Consultation,663,0.0,Unpaid,Mpesa,Mombasa,No
+PT-00325,2023-01-14 12:00:00,Kenyatta National Hospital,Lab Test,964,441.73,Partially Paid,Cash,Uasin Gishu,No
+PT-00326,2023-01-14 13:00:00,Kenyatta National Hospital,Consultation,3542,0.0,Unpaid,Mpesa,Nakuru,No
+PT-00327,2023-01-14 14:00:00,Nairobi West,Surgery,2942,0.0,Unpaid,Cash,Kisumu,No
+PT-00328,2023-01-14 15:00:00,Aga Khan,Medication,2855,980.65,Partially Paid,NHIF,Kiambu,No
+PT-00329,2023-01-14 16:00:00,Moi Referral,Lab Test,4778,2157.79,Partially Paid,Insurance,Kisumu,Yes
+PT-00330,2023-01-14 17:00:00,Moi Referral,Consultation,3057,2394.48,Partially Paid,NHIF,Mombasa,No
+PT-00331,2023-01-14 18:00:00,Nairobi West,Radiology,1045,807.11,Partially Paid,Mpesa,Mombasa,Yes
+PT-00332,2023-01-14 19:00:00,Moi Referral,Lab Test,4335,0.0,Unpaid,NHIF,Nairobi,Yes
+PT-00333,2023-01-14 20:00:00,Kenyatta National Hospital,Lab Test,1093,0.0,Unpaid,Mpesa,Nakuru,No
+PT-00334,2023-01-14 21:00:00,Aga Khan,Consultation,4304,4304.0,Paid,Cash,Nairobi,Yes
+PT-00335,2023-01-14 22:00:00,Mbagathi Hospital,Lab Test,1959,1959.0,Paid,Cash,Kisumu,Yes
+PT-00336,2023-01-14 23:00:00,Moi Referral,Radiology,3993,0.0,Unpaid,Mpesa,Uasin Gishu,Yes
+PT-00337,2023-01-15 00:00:00,Kenyatta National Hospital,Physiotherapy,3101,3101.0,Paid,NHIF,Uasin Gishu,No
+PT-00338,2023-01-15 01:00:00,Mbagathi Hospital,Lab Test,2944,0.0,Unpaid,Cash,Mombasa,No
+PT-00339,2023-01-15 02:00:00,Aga Khan,Physiotherapy,3172,3172.0,Paid,Insurance,Uasin Gishu,No
+PT-00340,2023-01-15 03:00:00,Mbagathi Hospital,Radiology,4700,2196.96,Partially Paid,Cash,Uasin Gishu,Yes
+PT-00341,2023-01-15 04:00:00,Kenyatta National Hospital,Consultation,516,516.0,Paid,Insurance,Uasin Gishu,No
+PT-00342,2023-01-15 05:00:00,Mbagathi Hospital,Medication,3691,2160.81,Partially Paid,NHIF,Kisumu,No
+PT-00343,2023-01-15 06:00:00,Nairobi West,Lab Test,892,673.28,Partially Paid,Insurance,Uasin Gishu,Yes
+PT-00344,2023-01-15 07:00:00,Mbagathi Hospital,Medication,924,280.06,Partially Paid,Insurance,Kiambu,No
+PT-00345,2023-01-15 08:00:00,Moi Referral,Radiology,1071,755.42,Partially Paid,Insurance,Uasin Gishu,Yes
+PT-00346,2023-01-15 09:00:00,Moi Referral,Lab Test,4131,4131.0,Paid,Insurance,Uasin Gishu,No
+PT-00347,2023-01-15 10:00:00,Nairobi West,Physiotherapy,1620,0.0,Unpaid,Cash,Nairobi,No
+PT-00348,2023-01-15 11:00:00,Kenyatta National Hospital,Surgery,741,573.67,Partially Paid,Insurance,Kisumu,No
+PT-00349,2023-01-15 12:00:00,Moi Referral,Medication,4397,4397.0,Paid,Cash,Mombasa,Yes
+PT-00350,2023-01-15 13:00:00,Aga Khan,Lab Test,4595,1588.32,Partially Paid,Insurance,Nairobi,No
+PT-00351,2023-01-15 14:00:00,Moi Referral,Medication,2779,2779.0,Paid,Mpesa,Nakuru,No
+PT-00352,2023-01-15 15:00:00,Moi Referral,Lab Test,1288,1288.0,Paid,NHIF,Kisumu,No
+PT-00353,2023-01-15 16:00:00,Kenyatta National Hospital,Consultation,1214,1214.0,Paid,Insurance,Kiambu,No
+PT-00354,2023-01-15 17:00:00,Mbagathi Hospital,Physiotherapy,3349,0.0,Unpaid,Mpesa,Kisumu,Yes
+PT-00355,2023-01-15 18:00:00,Moi Referral,Medication,1275,1275.0,Paid,Insurance,Nakuru,Yes
+PT-00356,2023-01-15 19:00:00,Nairobi West,Surgery,4526,4526.0,Paid,Insurance,Nakuru,No
+PT-00357,2023-01-15 20:00:00,Mbagathi Hospital,Surgery,2747,0.0,Unpaid,Insurance,Nakuru,No
+PT-00358,2023-01-15 21:00:00,Aga Khan,Radiology,578,0.0,Unpaid,Mpesa,Mombasa,No
+PT-00359,2023-01-15 22:00:00,Kenyatta National Hospital,Lab Test,4426,4426.0,Paid,NHIF,Uasin Gishu,Yes
+PT-00360,2023-01-15 23:00:00,Aga Khan,Medication,1355,0.0,Unpaid,Mpesa,Kisumu,No
+PT-00361,2023-01-16 00:00:00,Mbagathi Hospital,Radiology,2648,1008.16,Partially Paid,NHIF,Uasin Gishu,Yes
+PT-00362,2023-01-16 01:00:00,Mbagathi Hospital,Medication,1531,1194.75,Partially Paid,Insurance,Uasin Gishu,No
+PT-00363,2023-01-16 02:00:00,Mbagathi Hospital,Lab Test,3771,0.0,Unpaid,Cash,Kiambu,No
+PT-00364,2023-01-16 03:00:00,Aga Khan,Surgery,4076,0.0,Unpaid,Insurance,Nakuru,No
+PT-00365,2023-01-16 04:00:00,Mbagathi Hospital,Consultation,4682,4682.0,Paid,NHIF,Mombasa,Yes
+PT-00366,2023-01-16 05:00:00,Aga Khan,Surgery,3956,0.0,Unpaid,Mpesa,Kiambu,No
+PT-00367,2023-01-16 06:00:00,Mbagathi Hospital,Radiology,4006,4006.0,Paid,Insurance,Nairobi,Yes
+PT-00368,2023-01-16 07:00:00,Nairobi West,Physiotherapy,907,515.87,Partially Paid,Mpesa,Mombasa,Yes
+PT-00369,2023-01-16 08:00:00,Mbagathi Hospital,Consultation,3211,0.0,Unpaid,Mpesa,Uasin Gishu,No
+PT-00370,2023-01-16 09:00:00,Aga Khan,Radiology,3588,3588.0,Paid,Mpesa,Mombasa,No
+PT-00371,2023-01-16 10:00:00,Moi Referral,Lab Test,2168,2168.0,Paid,Insurance,Nakuru,Yes
+PT-00372,2023-01-16 11:00:00,Mbagathi Hospital,Consultation,647,198.69,Partially Paid,Mpesa,Nairobi,No
+PT-00373,2023-01-16 12:00:00,Moi Referral,Radiology,4827,0.0,Unpaid,Mpesa,Nakuru,No
+PT-00374,2023-01-16 13:00:00,Nairobi West,Lab Test,4397,1885.5,Partially Paid,Insurance,Nairobi,No
+PT-00375,2023-01-16 14:00:00,Kenyatta National Hospital,Surgery,2450,2450.0,Paid,Mpesa,Kiambu,Yes
+PT-00376,2023-01-16 15:00:00,Nairobi West,Physiotherapy,865,865.0,Paid,Insurance,Uasin Gishu,No
+PT-00377,2023-01-16 16:00:00,Mbagathi Hospital,Lab Test,2174,0.0,Unpaid,NHIF,Nairobi,Yes
+PT-00378,2023-01-16 17:00:00,Moi Referral,Medication,4994,4994.0,Paid,NHIF,Nairobi,Yes
+PT-00379,2023-01-16 18:00:00,Moi Referral,Lab Test,3046,0.0,Unpaid,NHIF,Nairobi,Yes
+PT-00380,2023-01-16 19:00:00,Aga Khan,Lab Test,1062,557.52,Partially Paid,Mpesa,Mombasa,No
+PT-00381,2023-01-16 20:00:00,Moi Referral,Physiotherapy,4062,0.0,Unpaid,Cash,Kiambu,Yes
+PT-00382,2023-01-16 21:00:00,Aga Khan,Medication,2989,0.0,Unpaid,Cash,Mombasa,Yes
+PT-00383,2023-01-16 22:00:00,Kenyatta National Hospital,Radiology,1272,1272.0,Paid,Mpesa,Uasin Gishu,Yes
+PT-00384,2023-01-16 23:00:00,Mbagathi Hospital,Radiology,2537,2537.0,Paid,Cash,Nairobi,No
+PT-00385,2023-01-17 00:00:00,Aga Khan,Lab Test,3923,0.0,Unpaid,Insurance,Kiambu,No
+PT-00386,2023-01-17 01:00:00,Kenyatta National Hospital,Medication,3067,3067.0,Paid,Cash,Kiambu,Yes
+PT-00387,2023-01-17 02:00:00,Moi Referral,Medication,2073,2073.0,Paid,Mpesa,Kisumu,No
+PT-00388,2023-01-17 03:00:00,Moi Referral,Physiotherapy,4194,4194.0,Paid,Mpesa,Uasin Gishu,No
+PT-00389,2023-01-17 04:00:00,Kenyatta National Hospital,Surgery,3791,0.0,Unpaid,Insurance,Kiambu,No
+PT-00390,2023-01-17 05:00:00,Moi Referral,Radiology,1746,1746.0,Paid,NHIF,Nairobi,Yes
+PT-00391,2023-01-17 06:00:00,Kenyatta National Hospital,Physiotherapy,4219,0.0,Unpaid,Mpesa,Nairobi,No
+PT-00392,2023-01-17 07:00:00,Aga Khan,Consultation,4339,4339.0,Paid,Insurance,Kiambu,No
+PT-00393,2023-01-17 08:00:00,Aga Khan,Radiology,859,555.3,Partially Paid,Cash,Mombasa,No
+PT-00394,2023-01-17 09:00:00,Kenyatta National Hospital,Physiotherapy,2876,2876.0,Paid,Cash,Uasin Gishu,Yes
+PT-00395,2023-01-17 10:00:00,Aga Khan,Radiology,3509,3509.0,Paid,Insurance,Nairobi,No
+PT-00396,2023-01-17 11:00:00,Aga Khan,Surgery,3493,0.0,Unpaid,Insurance,Kiambu,No
+PT-00397,2023-01-17 12:00:00,Aga Khan,Consultation,1462,0.0,Unpaid,Mpesa,Nairobi,No
+PT-00398,2023-01-17 13:00:00,Nairobi West,Surgery,4132,4132.0,Paid,Cash,Kiambu,Yes
+PT-00399,2023-01-17 14:00:00,Mbagathi Hospital,Consultation,2327,1551.13,Partially Paid,Insurance,Uasin Gishu,Yes
+PT-00400,2023-01-17 15:00:00,Moi Referral,Lab Test,2113,2113.0,Paid,Cash,Kiambu,No
+PT-00401,2023-01-17 16:00:00,Nairobi West,Physiotherapy,2140,2140.0,Paid,Insurance,Kisumu,No
+PT-00402,2023-01-17 17:00:00,Aga Khan,Consultation,2716,2166.58,Partially Paid,Cash,Kiambu,Yes
+PT-00403,2023-01-17 18:00:00,Kenyatta National Hospital,Surgery,4812,0.0,Unpaid,NHIF,Kiambu,No
+PT-00404,2023-01-17 19:00:00,Aga Khan,Radiology,877,877.0,Paid,Mpesa,Uasin Gishu,Yes
+PT-00405,2023-01-17 20:00:00,Mbagathi Hospital,Consultation,4714,0.0,Unpaid,Cash,Kiambu,No
+PT-00406,2023-01-17 21:00:00,Aga Khan,Physiotherapy,4785,0.0,Unpaid,NHIF,Uasin Gishu,No
+PT-00407,2023-01-17 22:00:00,Kenyatta National Hospital,Consultation,869,385.62,Partially Paid,Cash,Kisumu,No
+PT-00408,2023-01-17 23:00:00,Mbagathi Hospital,Medication,2696,1534.32,Partially Paid,Cash,Uasin Gishu,No
+PT-00409,2023-01-18 00:00:00,Aga Khan,Radiology,4247,0.0,Unpaid,NHIF,Nairobi,Yes
+PT-00410,2023-01-18 01:00:00,Mbagathi Hospital,Physiotherapy,1151,1151.0,Paid,Cash,Uasin Gishu,No
+PT-00411,2023-01-18 02:00:00,Moi Referral,Physiotherapy,1269,0.0,Unpaid,Cash,Kisumu,Yes
+PT-00412,2023-01-18 03:00:00,Moi Referral,Lab Test,2921,2921.0,Paid,Mpesa,Nakuru,No
+PT-00413,2023-01-18 04:00:00,Aga Khan,Surgery,1280,1280.0,Paid,NHIF,Kiambu,No
+PT-00414,2023-01-18 05:00:00,Mbagathi Hospital,Lab Test,2216,1255.72,Partially Paid,NHIF,Uasin Gishu,No
+PT-00415,2023-01-18 06:00:00,Kenyatta National Hospital,Physiotherapy,4483,4483.0,Paid,Insurance,Kiambu,Yes
+PT-00416,2023-01-18 07:00:00,Aga Khan,Radiology,1811,1811.0,Paid,Cash,Mombasa,No
+PT-00417,2023-01-18 08:00:00,Moi Referral,Consultation,3859,0.0,Unpaid,Mpesa,Nairobi,Yes
+PT-00418,2023-01-18 09:00:00,Moi Referral,Consultation,1022,513.88,Partially Paid,Cash,Nairobi,Yes
+PT-00419,2023-01-18 10:00:00,Aga Khan,Radiology,1021,1021.0,Paid,Cash,Mombasa,No
+PT-00420,2023-01-18 11:00:00,Mbagathi Hospital,Physiotherapy,2820,2820.0,Paid,Insurance,Mombasa,No
+PT-00421,2023-01-18 12:00:00,Moi Referral,Consultation,1435,551.87,Partially Paid,Cash,Uasin Gishu,No
+PT-00422,2023-01-18 13:00:00,Mbagathi Hospital,Consultation,2730,0.0,Unpaid,Mpesa,Mombasa,Yes
+PT-00423,2023-01-18 14:00:00,Moi Referral,Consultation,4540,3580.83,Partially Paid,Mpesa,Nakuru,Yes
+PT-00424,2023-01-18 15:00:00,Moi Referral,Surgery,4197,3049.79,Partially Paid,Insurance,Kiambu,No
+PT-00425,2023-01-18 16:00:00,Nairobi West,Surgery,3337,3337.0,Paid,Cash,Kiambu,No
+PT-00426,2023-01-18 17:00:00,Moi Referral,Medication,4583,4583.0,Paid,Mpesa,Kisumu,Yes
+PT-00427,2023-01-18 18:00:00,Kenyatta National Hospital,Lab Test,2961,0.0,Unpaid,Cash,Mombasa,No
+PT-00428,2023-01-18 19:00:00,Aga Khan,Radiology,3743,3743.0,Paid,Cash,Mombasa,No
+PT-00429,2023-01-18 20:00:00,Aga Khan,Radiology,3859,3859.0,Paid,Cash,Nakuru,No
+PT-00430,2023-01-18 21:00:00,Mbagathi Hospital,Radiology,1185,650.76,Partially Paid,Insurance,Nairobi,No
+PT-00431,2023-01-18 22:00:00,Moi Referral,Medication,2660,2660.0,Paid,Cash,Nairobi,No
+PT-00432,2023-01-18 23:00:00,Kenyatta National Hospital,Surgery,4488,0.0,Unpaid,Mpesa,Kiambu,No
+PT-00433,2023-01-19 00:00:00,Mbagathi Hospital,Physiotherapy,4566,2747.01,Partially Paid,Cash,Kiambu,No
+PT-00434,2023-01-19 01:00:00,Nairobi West,Physiotherapy,2067,0.0,Unpaid,Mpesa,Uasin Gishu,Yes
+PT-00435,2023-01-19 02:00:00,Mbagathi Hospital,Medication,538,222.53,Partially Paid,Cash,Nakuru,No
+PT-00436,2023-01-19 03:00:00,Mbagathi Hospital,Physiotherapy,3044,3044.0,Paid,Mpesa,Kisumu,No
+PT-00437,2023-01-19 04:00:00,Moi Referral,Radiology,1756,1004.25,Partially Paid,Mpesa,Kisumu,No
+PT-00438,2023-01-19 05:00:00,Nairobi West,Lab Test,3490,2259.72,Partially Paid,Cash,Nakuru,Yes
+PT-00439,2023-01-19 06:00:00,Mbagathi Hospital,Consultation,2696,2696.0,Paid,Cash,Kisumu,No
+PT-00440,2023-01-19 07:00:00,Kenyatta National Hospital,Surgery,3968,3968.0,Paid,Mpesa,Nairobi,No
+PT-00441,2023-01-19 08:00:00,Kenyatta National Hospital,Surgery,3208,0.0,Unpaid,NHIF,Kisumu,Yes
+PT-00442,2023-01-19 09:00:00,Aga Khan,Medication,801,0.0,Unpaid,Insurance,Kisumu,No
+PT-00443,2023-01-19 10:00:00,Nairobi West,Surgery,1146,1146.0,Paid,NHIF,Nakuru,No
+PT-00444,2023-01-19 11:00:00,Nairobi West,Radiology,2259,2259.0,Paid,NHIF,Nakuru,Yes
+PT-00445,2023-01-19 12:00:00,Aga Khan,Physiotherapy,4851,4851.0,Paid,Cash,Kisumu,No
+PT-00446,2023-01-19 13:00:00,Mbagathi Hospital,Radiology,1097,611.67,Partially Paid,Insurance,Mombasa,No
+PT-00447,2023-01-19 14:00:00,Nairobi West,Medication,1161,923.16,Partially Paid,NHIF,Nakuru,No
+PT-00448,2023-01-19 15:00:00,Kenyatta National Hospital,Radiology,4830,2925.39,Partially Paid,Cash,Uasin Gishu,Yes
+PT-00449,2023-01-19 16:00:00,Kenyatta National Hospital,Physiotherapy,1868,1868.0,Paid,NHIF,Uasin Gishu,Yes
+PT-00450,2023-01-19 17:00:00,Moi Referral,Lab Test,3081,0.0,Unpaid,NHIF,Nairobi,No
+PT-00451,2023-01-19 18:00:00,Nairobi West,Medication,4368,4368.0,Paid,Cash,Kisumu,Yes
+PT-00452,2023-01-19 19:00:00,Mbagathi Hospital,Lab Test,4037,1959.91,Partially Paid,Cash,Mombasa,No
+PT-00453,2023-01-19 20:00:00,Aga Khan,Consultation,4808,3298.65,Partially Paid,Cash,Nairobi,Yes
+PT-00454,2023-01-19 21:00:00,Aga Khan,Lab Test,782,782.0,Paid,Insurance,Kisumu,Yes
+PT-00455,2023-01-19 22:00:00,Mbagathi Hospital,Consultation,4178,4178.0,Paid,NHIF,Nakuru,Yes
+PT-00456,2023-01-19 23:00:00,Moi Referral,Consultation,1986,765.07,Partially Paid,Cash,Uasin Gishu,No
+PT-00457,2023-01-20 00:00:00,Aga Khan,Lab Test,4582,2255.53,Partially Paid,Mpesa,Kiambu,No
+PT-00458,2023-01-20 01:00:00,Nairobi West,Medication,4683,2217.3,Partially Paid,NHIF,Mombasa,Yes
+PT-00459,2023-01-20 02:00:00,Moi Referral,Physiotherapy,960,960.0,Paid,Mpesa,Kiambu,Yes
+PT-00460,2023-01-20 03:00:00,Nairobi West,Radiology,2825,1457.43,Partially Paid,Insurance,Uasin Gishu,Yes
+PT-00461,2023-01-20 04:00:00,Kenyatta National Hospital,Radiology,4254,2939.05,Partially Paid,Cash,Kiambu,No
+PT-00462,2023-01-20 05:00:00,Moi Referral,Physiotherapy,2968,0.0,Unpaid,Mpesa,Nakuru,No
+PT-00463,2023-01-20 06:00:00,Aga Khan,Consultation,2224,2224.0,Paid,Insurance,Kisumu,No
+PT-00464,2023-01-20 07:00:00,Moi Referral,Consultation,1876,0.0,Unpaid,Cash,Nakuru,No
+PT-00465,2023-01-20 08:00:00,Moi Referral,Medication,3243,0.0,Unpaid,Mpesa,Kiambu,No
+PT-00466,2023-01-20 09:00:00,Moi Referral,Surgery,1014,549.68,Partially Paid,Mpesa,Nakuru,Yes
+PT-00467,2023-01-20 10:00:00,Moi Referral,Lab Test,1202,1202.0,Paid,Insurance,Uasin Gishu,No
+PT-00468,2023-01-20 11:00:00,Nairobi West,Consultation,2153,1500.66,Partially Paid,Cash,Mombasa,Yes
+PT-00469,2023-01-20 12:00:00,Kenyatta National Hospital,Radiology,2566,2566.0,Paid,Cash,Nakuru,Yes
+PT-00470,2023-01-20 13:00:00,Mbagathi Hospital,Medication,522,0.0,Unpaid,Mpesa,Uasin Gishu,No
+PT-00471,2023-01-20 14:00:00,Moi Referral,Lab Test,2960,2960.0,Paid,Mpesa,Mombasa,No
+PT-00472,2023-01-20 15:00:00,Aga Khan,Medication,1804,1061.19,Partially Paid,Mpesa,Kisumu,No
+PT-00473,2023-01-20 16:00:00,Moi Referral,Lab Test,3800,1789.93,Partially Paid,Cash,Kiambu,No
+PT-00474,2023-01-20 17:00:00,Aga Khan,Lab Test,861,607.0,Partially Paid,Insurance,Kisumu,No
+PT-00475,2023-01-20 18:00:00,Nairobi West,Physiotherapy,4227,4227.0,Paid,Insurance,Nairobi,Yes
+PT-00476,2023-01-20 19:00:00,Aga Khan,Consultation,1784,0.0,Unpaid,Cash,Uasin Gishu,No
+PT-00477,2023-01-20 20:00:00,Mbagathi Hospital,Medication,1014,0.0,Unpaid,NHIF,Mombasa,No
+PT-00478,2023-01-20 21:00:00,Kenyatta National Hospital,Medication,948,948.0,Paid,Insurance,Nakuru,No
+PT-00479,2023-01-20 22:00:00,Aga Khan,Physiotherapy,2355,987.09,Partially Paid,Mpesa,Kisumu,No
+PT-00480,2023-01-20 23:00:00,Aga Khan,Radiology,4062,0.0,Unpaid,NHIF,Mombasa,Yes
+PT-00481,2023-01-21 00:00:00,Kenyatta National Hospital,Radiology,3020,1244.82,Partially Paid,NHIF,Uasin Gishu,No
+PT-00482,2023-01-21 01:00:00,Mbagathi Hospital,Consultation,3581,3581.0,Paid,Insurance,Nairobi,No
+PT-00483,2023-01-21 02:00:00,Moi Referral,Consultation,1928,1064.74,Partially Paid,NHIF,Kisumu,Yes
+PT-00484,2023-01-21 03:00:00,Aga Khan,Surgery,4467,0.0,Unpaid,NHIF,Kiambu,No
+PT-00485,2023-01-21 04:00:00,Kenyatta National Hospital,Physiotherapy,1422,0.0,Unpaid,Insurance,Mombasa,No
+PT-00486,2023-01-21 05:00:00,Nairobi West,Radiology,3637,1565.45,Partially Paid,Insurance,Kiambu,No
+PT-00487,2023-01-21 06:00:00,Kenyatta National Hospital,Lab Test,2659,2659.0,Paid,NHIF,Mombasa,No
+PT-00488,2023-01-21 07:00:00,Nairobi West,Medication,3047,927.94,Partially Paid,Mpesa,Mombasa,Yes
+PT-00489,2023-01-21 08:00:00,Mbagathi Hospital,Consultation,3479,3479.0,Paid,Cash,Uasin Gishu,Yes
+PT-00490,2023-01-21 09:00:00,Moi Referral,Medication,2781,1735.76,Partially Paid,NHIF,Uasin Gishu,Yes
+PT-00491,2023-01-21 10:00:00,Kenyatta National Hospital,Medication,3149,0.0,Unpaid,NHIF,Uasin Gishu,No
+PT-00492,2023-01-21 11:00:00,Aga Khan,Surgery,813,813.0,Paid,Mpesa,Nakuru,Yes
+PT-00493,2023-01-21 12:00:00,Mbagathi Hospital,Radiology,3113,3113.0,Paid,NHIF,Mombasa,Yes
+PT-00494,2023-01-21 13:00:00,Kenyatta National Hospital,Consultation,3583,3583.0,Paid,NHIF,Kisumu,No
+PT-00495,2023-01-21 14:00:00,Aga Khan,Medication,2756,0.0,Unpaid,Cash,Kiambu,No
+PT-00496,2023-01-21 15:00:00,Kenyatta National Hospital,Consultation,1537,853.88,Partially Paid,Cash,Uasin Gishu,No
+PT-00497,2023-01-21 16:00:00,Nairobi West,Lab Test,3989,0.0,Unpaid,Cash,Uasin Gishu,Yes
+PT-00498,2023-01-21 17:00:00,Kenyatta National Hospital,Surgery,3134,3134.0,Paid,Insurance,Kiambu,Yes
+PT-00499,2023-01-21 18:00:00,Kenyatta National Hospital,Lab Test,4483,2343.53,Partially Paid,Insurance,Kiambu,Yes
+PT-00500,2023-01-21 19:00:00,Kenyatta National Hospital,Consultation,2278,0.0,Unpaid,Cash,Mombasa,No
+PT-00501,2023-01-21 20:00:00,Mbagathi Hospital,Consultation,4395,4395.0,Paid,Cash,Uasin Gishu,No
+PT-00502,2023-01-21 21:00:00,Kenyatta National Hospital,Radiology,1624,1624.0,Paid,Insurance,Kiambu,No
+PT-00503,2023-01-21 22:00:00,Aga Khan,Medication,1197,0.0,Unpaid,Mpesa,Nakuru,Yes
+PT-00504,2023-01-21 23:00:00,Nairobi West,Medication,2679,0.0,Unpaid,NHIF,Nakuru,No
+PT-00505,2023-01-22 00:00:00,Nairobi West,Lab Test,1904,0.0,Unpaid,NHIF,Uasin Gishu,Yes
+PT-00506,2023-01-22 01:00:00,Kenyatta National Hospital,Surgery,1543,1543.0,Paid,Cash,Kiambu,Yes
+PT-00507,2023-01-22 02:00:00,Mbagathi Hospital,Physiotherapy,2429,0.0,Unpaid,Mpesa,Mombasa,No
+PT-00508,2023-01-22 03:00:00,Mbagathi Hospital,Medication,1513,1513.0,Paid,Insurance,Mombasa,No
+PT-00509,2023-01-22 04:00:00,Aga Khan,Radiology,726,0.0,Unpaid,Cash,Mombasa,Yes
+PT-00510,2023-01-22 05:00:00,Kenyatta National Hospital,Lab Test,2328,2328.0,Paid,Mpesa,Nairobi,Yes
+PT-00511,2023-01-22 06:00:00,Nairobi West,Lab Test,2523,2523.0,Paid,Mpesa,Uasin Gishu,No
+PT-00512,2023-01-22 07:00:00,Mbagathi Hospital,Physiotherapy,2952,2312.85,Partially Paid,Mpesa,Mombasa,Yes
+PT-00513,2023-01-22 08:00:00,Kenyatta National Hospital,Radiology,2585,0.0,Unpaid,Insurance,Nakuru,Yes
+PT-00514,2023-01-22 09:00:00,Mbagathi Hospital,Surgery,4783,0.0,Unpaid,Insurance,Kiambu,Yes
+PT-00515,2023-01-22 10:00:00,Mbagathi Hospital,Radiology,1580,1580.0,Paid,NHIF,Kisumu,Yes
+PT-00516,2023-01-22 11:00:00,Nairobi West,Surgery,2820,2820.0,Paid,NHIF,Kisumu,Yes
+PT-00517,2023-01-22 12:00:00,Moi Referral,Radiology,3690,3690.0,Paid,Mpesa,Mombasa,No
+PT-00518,2023-01-22 13:00:00,Aga Khan,Radiology,3130,1832.93,Partially Paid,Mpesa,Kisumu,Yes
+PT-00519,2023-01-22 14:00:00,Aga Khan,Consultation,3063,2241.25,Partially Paid,Insurance,Kisumu,No
+PT-00520,2023-01-22 15:00:00,Nairobi West,Lab Test,3792,3792.0,Paid,NHIF,Nairobi,No
+PT-00521,2023-01-22 16:00:00,Mbagathi Hospital,Radiology,4086,0.0,Unpaid,Mpesa,Nakuru,No
+PT-00522,2023-01-22 17:00:00,Kenyatta National Hospital,Physiotherapy,4931,0.0,Unpaid,NHIF,Nakuru,No
+PT-00523,2023-01-22 18:00:00,Mbagathi Hospital,Radiology,3447,1274.44,Partially Paid,NHIF,Nairobi,No
+PT-00524,2023-01-22 19:00:00,Nairobi West,Medication,4459,2606.75,Partially Paid,Mpesa,Nairobi,Yes
+PT-00525,2023-01-22 20:00:00,Aga Khan,Lab Test,3313,3313.0,Paid,Insurance,Kisumu,No
+PT-00526,2023-01-22 21:00:00,Mbagathi Hospital,Medication,3083,0.0,Unpaid,Mpesa,Uasin Gishu,No
+PT-00527,2023-01-22 22:00:00,Aga Khan,Lab Test,661,661.0,Paid,Mpesa,Kiambu,No
+PT-00528,2023-01-22 23:00:00,Kenyatta National Hospital,Medication,1093,802.25,Partially Paid,NHIF,Kiambu,No
+PT-00529,2023-01-23 00:00:00,Aga Khan,Radiology,3759,0.0,Unpaid,Mpesa,Kisumu,No
+PT-00530,2023-01-23 01:00:00,Aga Khan,Radiology,4655,0.0,Unpaid,Insurance,Kiambu,No
+PT-00531,2023-01-23 02:00:00,Moi Referral,Consultation,3462,2047.96,Partially Paid,Mpesa,Nairobi,Yes
+PT-00532,2023-01-23 03:00:00,Moi Referral,Physiotherapy,4388,4388.0,Paid,Insurance,Nakuru,No
+PT-00533,2023-01-23 04:00:00,Moi Referral,Medication,3890,3890.0,Paid,Insurance,Kiambu,No
+PT-00534,2023-01-23 05:00:00,Aga Khan,Surgery,1163,0.0,Unpaid,NHIF,Kisumu,No
+PT-00535,2023-01-23 06:00:00,Nairobi West,Consultation,1632,1075.5,Partially Paid,Cash,Uasin Gishu,Yes
+PT-00536,2023-01-23 07:00:00,Aga Khan,Medication,1041,0.0,Unpaid,Cash,Kisumu,No
+PT-00537,2023-01-23 08:00:00,Nairobi West,Medication,3474,1688.44,Partially Paid,NHIF,Mombasa,Yes
+PT-00538,2023-01-23 09:00:00,Nairobi West,Consultation,1367,1367.0,Paid,Mpesa,Kisumu,Yes
+PT-00539,2023-01-23 10:00:00,Moi Referral,Radiology,2566,888.41,Partially Paid,NHIF,Nairobi,No
+PT-00540,2023-01-23 11:00:00,Mbagathi Hospital,Medication,931,931.0,Paid,Insurance,Nakuru,Yes
+PT-00541,2023-01-23 12:00:00,Kenyatta National Hospital,Radiology,4778,2527.32,Partially Paid,Cash,Nakuru,No
+PT-00542,2023-01-23 13:00:00,Moi Referral,Consultation,1706,0.0,Unpaid,NHIF,Kiambu,Yes
+PT-00543,2023-01-23 14:00:00,Moi Referral,Radiology,3028,3028.0,Paid,Mpesa,Nairobi,No
+PT-00544,2023-01-23 15:00:00,Mbagathi Hospital,Lab Test,1669,0.0,Unpaid,NHIF,Mombasa,Yes
+PT-00545,2023-01-23 16:00:00,Kenyatta National Hospital,Surgery,1330,0.0,Unpaid,Cash,Nairobi,Yes
+PT-00546,2023-01-23 17:00:00,Aga Khan,Medication,2151,2151.0,Paid,NHIF,Kisumu,Yes
+PT-00547,2023-01-23 18:00:00,Aga Khan,Physiotherapy,1636,1636.0,Paid,NHIF,Nairobi,Yes
+PT-00548,2023-01-23 19:00:00,Moi Referral,Surgery,3310,0.0,Unpaid,Cash,Nairobi,Yes
+PT-00549,2023-01-23 20:00:00,Kenyatta National Hospital,Radiology,975,0.0,Unpaid,Insurance,Mombasa,Yes
+PT-00550,2023-01-23 21:00:00,Moi Referral,Medication,3310,0.0,Unpaid,Insurance,Kisumu,No
+PT-00551,2023-01-23 22:00:00,Nairobi West,Radiology,1826,0.0,Unpaid,Cash,Uasin Gishu,Yes
+PT-00552,2023-01-23 23:00:00,Moi Referral,Lab Test,1519,1519.0,Paid,NHIF,Uasin Gishu,No
+PT-00553,2023-01-24 00:00:00,Moi Referral,Consultation,2336,2336.0,Paid,Cash,Nakuru,Yes
+PT-00554,2023-01-24 01:00:00,Aga Khan,Medication,4756,0.0,Unpaid,Insurance,Kiambu,No
+PT-00555,2023-01-24 02:00:00,Aga Khan,Lab Test,2948,1465.86,Partially Paid,Mpesa,Nairobi,No
+PT-00556,2023-01-24 03:00:00,Aga Khan,Lab Test,4793,3515.81,Partially Paid,NHIF,Nakuru,No
+PT-00557,2023-01-24 04:00:00,Nairobi West,Medication,1783,1783.0,Paid,Insurance,Mombasa,Yes
+PT-00558,2023-01-24 05:00:00,Aga Khan,Radiology,1159,0.0,Unpaid,NHIF,Uasin Gishu,Yes
+PT-00559,2023-01-24 06:00:00,Kenyatta National Hospital,Physiotherapy,2510,0.0,Unpaid,Cash,Nairobi,No
+PT-00560,2023-01-24 07:00:00,Mbagathi Hospital,Lab Test,898,898.0,Paid,Mpesa,Mombasa,Yes
+PT-00561,2023-01-24 08:00:00,Kenyatta National Hospital,Surgery,2233,942.32,Partially Paid,Cash,Kiambu,Yes
+PT-00562,2023-01-24 09:00:00,Kenyatta National Hospital,Lab Test,2625,2056.34,Partially Paid,Mpesa,Mombasa,Yes
+PT-00563,2023-01-24 10:00:00,Aga Khan,Physiotherapy,2671,2080.89,Partially Paid,NHIF,Nairobi,Yes
+PT-00564,2023-01-24 11:00:00,Mbagathi Hospital,Radiology,574,574.0,Paid,NHIF,Kiambu,Yes
+PT-00565,2023-01-24 12:00:00,Mbagathi Hospital,Radiology,3971,1682.97,Partially Paid,Cash,Mombasa,No
+PT-00566,2023-01-24 13:00:00,Mbagathi Hospital,Surgery,1336,1336.0,Paid,Mpesa,Kiambu,Yes
+PT-00567,2023-01-24 14:00:00,Nairobi West,Lab Test,999,999.0,Paid,Mpesa,Nairobi,No
+PT-00568,2023-01-24 15:00:00,Aga Khan,Radiology,637,0.0,Unpaid,NHIF,Nairobi,Yes
+PT-00569,2023-01-24 16:00:00,Mbagathi Hospital,Physiotherapy,2597,1231.05,Partially Paid,Cash,Kiambu,Yes
+PT-00570,2023-01-24 17:00:00,Nairobi West,Medication,4196,4196.0,Paid,Mpesa,Kisumu,No
+PT-00571,2023-01-24 18:00:00,Moi Referral,Consultation,2385,1783.45,Partially Paid,NHIF,Nakuru,Yes
+PT-00572,2023-01-24 19:00:00,Moi Referral,Consultation,3257,2551.24,Partially Paid,Insurance,Mombasa,No
+PT-00573,2023-01-24 20:00:00,Nairobi West,Consultation,4420,0.0,Unpaid,Cash,Mombasa,No
+PT-00574,2023-01-24 21:00:00,Nairobi West,Lab Test,2400,1252.13,Partially Paid,Insurance,Kisumu,Yes
+PT-00575,2023-01-24 22:00:00,Aga Khan,Surgery,3110,0.0,Unpaid,Cash,Kisumu,No
+PT-00576,2023-01-24 23:00:00,Aga Khan,Radiology,4486,4486.0,Paid,NHIF,Kisumu,Yes
+PT-00577,2023-01-25 00:00:00,Moi Referral,Medication,1949,897.51,Partially Paid,Mpesa,Uasin Gishu,No
+PT-00578,2023-01-25 01:00:00,Mbagathi Hospital,Physiotherapy,1046,1046.0,Paid,Mpesa,Uasin Gishu,Yes
+PT-00579,2023-01-25 02:00:00,Moi Referral,Medication,2503,1409.31,Partially Paid,Mpesa,Kiambu,No
+PT-00580,2023-01-25 03:00:00,Mbagathi Hospital,Physiotherapy,2596,2596.0,Paid,Cash,Uasin Gishu,Yes
+PT-00581,2023-01-25 04:00:00,Mbagathi Hospital,Lab Test,1203,774.59,Partially Paid,NHIF,Nairobi,No
+PT-00582,2023-01-25 05:00:00,Aga Khan,Consultation,2903,1267.85,Partially Paid,Insurance,Kiambu,No
+PT-00583,2023-01-25 06:00:00,Kenyatta National Hospital,Lab Test,2125,1420.0,Partially Paid,NHIF,Mombasa,No
+PT-00584,2023-01-25 07:00:00,Kenyatta National Hospital,Surgery,3831,1248.25,Partially Paid,Insurance,Nakuru,No
+PT-00585,2023-01-25 08:00:00,Nairobi West,Surgery,3478,1129.12,Partially Paid,Cash,Nairobi,No
+PT-00586,2023-01-25 09:00:00,Aga Khan,Physiotherapy,3339,1646.61,Partially Paid,Cash,Mombasa,No
+PT-00587,2023-01-25 10:00:00,Mbagathi Hospital,Radiology,3884,1851.64,Partially Paid,Insurance,Mombasa,Yes
+PT-00588,2023-01-25 11:00:00,Kenyatta National Hospital,Radiology,3159,1446.24,Partially Paid,Insurance,Kiambu,Yes
+PT-00589,2023-01-25 12:00:00,Mbagathi Hospital,Physiotherapy,2361,1287.95,Partially Paid,Insurance,Kisumu,Yes
+PT-00590,2023-01-25 13:00:00,Kenyatta National Hospital,Surgery,3356,3356.0,Paid,NHIF,Kisumu,Yes
+PT-00591,2023-01-25 14:00:00,Kenyatta National Hospital,Surgery,1185,0.0,Unpaid,Insurance,Nairobi,Yes
+PT-00592,2023-01-25 15:00:00,Kenyatta National Hospital,Surgery,4783,2201.93,Partially Paid,Cash,Kisumu,No
+PT-00593,2023-01-25 16:00:00,Aga Khan,Lab Test,2119,0.0,Unpaid,Cash,Mombasa,Yes
+PT-00594,2023-01-25 17:00:00,Moi Referral,Surgery,1931,764.93,Partially Paid,Mpesa,Kisumu,No
+PT-00595,2023-01-25 18:00:00,Mbagathi Hospital,Medication,1375,625.26,Partially Paid,Insurance,Uasin Gishu,Yes
+PT-00596,2023-01-25 19:00:00,Aga Khan,Consultation,2961,2961.0,Paid,NHIF,Kisumu,Yes
+PT-00597,2023-01-25 20:00:00,Aga Khan,Surgery,1865,1865.0,Paid,NHIF,Mombasa,No
+PT-00598,2023-01-25 21:00:00,Aga Khan,Physiotherapy,1743,0.0,Unpaid,NHIF,Kiambu,No
+PT-00599,2023-01-25 22:00:00,Aga Khan,Consultation,662,662.0,Paid,Mpesa,Nairobi,No
+PT-00600,2023-01-25 23:00:00,Aga Khan,Lab Test,2474,2474.0,Paid,Cash,Nakuru,No
+PT-00601,2023-01-26 00:00:00,Nairobi West,Physiotherapy,3791,0.0,Unpaid,NHIF,Kisumu,Yes
+PT-00602,2023-01-26 01:00:00,Mbagathi Hospital,Consultation,769,769.0,Paid,Cash,Mombasa,No
+PT-00603,2023-01-26 02:00:00,Aga Khan,Physiotherapy,1131,890.61,Partially Paid,Mpesa,Nakuru,Yes
+PT-00604,2023-01-26 03:00:00,Mbagathi Hospital,Lab Test,1405,0.0,Unpaid,Insurance,Nakuru,Yes
+PT-00605,2023-01-26 04:00:00,Nairobi West,Medication,3971,0.0,Unpaid,Insurance,Uasin Gishu,No
+PT-00606,2023-01-26 05:00:00,Nairobi West,Lab Test,3753,1897.35,Partially Paid,Insurance,Nakuru,Yes
+PT-00607,2023-01-26 06:00:00,Mbagathi Hospital,Lab Test,2514,2514.0,Paid,NHIF,Kiambu,Yes
+PT-00608,2023-01-26 07:00:00,Kenyatta National Hospital,Physiotherapy,2141,0.0,Unpaid,Insurance,Mombasa,No
+PT-00609,2023-01-26 08:00:00,Moi Referral,Radiology,704,0.0,Unpaid,NHIF,Mombasa,No
+PT-00610,2023-01-26 09:00:00,Kenyatta National Hospital,Surgery,1081,564.67,Partially Paid,Mpesa,Kisumu,Yes
+PT-00611,2023-01-26 10:00:00,Kenyatta National Hospital,Surgery,1340,788.29,Partially Paid,Mpesa,Kisumu,Yes
+PT-00612,2023-01-26 11:00:00,Kenyatta National Hospital,Medication,2219,2219.0,Paid,NHIF,Kisumu,Yes
+PT-00613,2023-01-26 12:00:00,Aga Khan,Medication,3143,0.0,Unpaid,Cash,Kiambu,Yes
+PT-00614,2023-01-26 13:00:00,Nairobi West,Surgery,2797,2797.0,Paid,Insurance,Nakuru,No
+PT-00615,2023-01-26 14:00:00,Kenyatta National Hospital,Radiology,1374,1374.0,Paid,Insurance,Nakuru,Yes
+PT-00616,2023-01-26 15:00:00,Nairobi West,Surgery,1189,941.3,Partially Paid,Insurance,Uasin Gishu,No
+PT-00617,2023-01-26 16:00:00,Mbagathi Hospital,Radiology,4500,0.0,Unpaid,NHIF,Kiambu,Yes
+PT-00618,2023-01-26 17:00:00,Moi Referral,Medication,3641,0.0,Unpaid,Mpesa,Kisumu,No
+PT-00619,2023-01-26 18:00:00,Mbagathi Hospital,Consultation,1922,0.0,Unpaid,Insurance,Nairobi,Yes
+PT-00620,2023-01-26 19:00:00,Mbagathi Hospital,Physiotherapy,1171,492.76,Partially Paid,Mpesa,Uasin Gishu,No
+PT-00621,2023-01-26 20:00:00,Aga Khan,Medication,1671,1070.51,Partially Paid,Insurance,Nairobi,Yes
+PT-00622,2023-01-26 21:00:00,Moi Referral,Medication,4226,2780.68,Partially Paid,Insurance,Nakuru,No
+PT-00623,2023-01-26 22:00:00,Mbagathi Hospital,Lab Test,1443,871.08,Partially Paid,NHIF,Uasin Gishu,Yes
+PT-00624,2023-01-26 23:00:00,Mbagathi Hospital,Lab Test,1949,671.02,Partially Paid,Cash,Uasin Gishu,Yes
+PT-00625,2023-01-27 00:00:00,Moi Referral,Lab Test,4237,0.0,Unpaid,NHIF,Mombasa,No
+PT-00626,2023-01-27 01:00:00,Moi Referral,Physiotherapy,3039,3039.0,Paid,Insurance,Nakuru,No
+PT-00627,2023-01-27 02:00:00,Mbagathi Hospital,Lab Test,4459,0.0,Unpaid,Insurance,Nakuru,No
+PT-00628,2023-01-27 03:00:00,Moi Referral,Radiology,4760,4760.0,Paid,Cash,Kiambu,No
+PT-00629,2023-01-27 04:00:00,Mbagathi Hospital,Surgery,2861,1826.57,Partially Paid,Mpesa,Uasin Gishu,No
+PT-00630,2023-01-27 05:00:00,Mbagathi Hospital,Consultation,4152,4152.0,Paid,Mpesa,Nakuru,Yes
+PT-00631,2023-01-27 06:00:00,Aga Khan,Medication,4170,0.0,Unpaid,Insurance,Uasin Gishu,Yes
+PT-00632,2023-01-27 07:00:00,Kenyatta National Hospital,Radiology,2253,0.0,Unpaid,Mpesa,Kiambu,Yes
+PT-00633,2023-01-27 08:00:00,Mbagathi Hospital,Consultation,2852,2852.0,Paid,Insurance,Kiambu,No
+PT-00634,2023-01-27 09:00:00,Nairobi West,Radiology,2438,809.53,Partially Paid,Cash,Mombasa,Yes
+PT-00635,2023-01-27 10:00:00,Kenyatta National Hospital,Radiology,870,520.32,Partially Paid,Cash,Uasin Gishu,Yes
+PT-00636,2023-01-27 11:00:00,Kenyatta National Hospital,Medication,4979,0.0,Unpaid,Insurance,Nakuru,No
+PT-00637,2023-01-27 12:00:00,Kenyatta National Hospital,Surgery,2431,2431.0,Paid,Cash,Nakuru,No
+PT-00638,2023-01-27 13:00:00,Aga Khan,Lab Test,924,618.89,Partially Paid,NHIF,Uasin Gishu,Yes
+PT-00639,2023-01-27 14:00:00,Mbagathi Hospital,Physiotherapy,1394,565.25,Partially Paid,NHIF,Uasin Gishu,Yes
+PT-00640,2023-01-27 15:00:00,Aga Khan,Surgery,1097,0.0,Unpaid,Cash,Uasin Gishu,Yes
+PT-00641,2023-01-27 16:00:00,Mbagathi Hospital,Physiotherapy,3562,2567.53,Partially Paid,Insurance,Kisumu,Yes
+PT-00642,2023-01-27 17:00:00,Aga Khan,Medication,2836,2836.0,Paid,Insurance,Nakuru,Yes
+PT-00643,2023-01-27 18:00:00,Aga Khan,Medication,2187,0.0,Unpaid,Cash,Kiambu,No
+PT-00644,2023-01-27 19:00:00,Nairobi West,Medication,1072,0.0,Unpaid,Mpesa,Nakuru,No
+PT-00645,2023-01-27 20:00:00,Aga Khan,Consultation,2590,2590.0,Paid,NHIF,Kisumu,No
+PT-00646,2023-01-27 21:00:00,Moi Referral,Physiotherapy,4169,0.0,Unpaid,Mpesa,Uasin Gishu,Yes
+PT-00647,2023-01-27 22:00:00,Nairobi West,Surgery,4772,1504.02,Partially Paid,Insurance,Mombasa,No
+PT-00648,2023-01-27 23:00:00,Aga Khan,Surgery,2133,1539.83,Partially Paid,Insurance,Uasin Gishu,Yes
+PT-00649,2023-01-28 00:00:00,Kenyatta National Hospital,Radiology,2017,2017.0,Paid,Mpesa,Uasin Gishu,No
+PT-00650,2023-01-28 01:00:00,Moi Referral,Radiology,4793,2541.08,Partially Paid,Cash,Kisumu,No
+PT-00651,2023-01-28 02:00:00,Moi Referral,Radiology,3157,3157.0,Paid,Mpesa,Nakuru,Yes
+PT-00652,2023-01-28 03:00:00,Moi Referral,Medication,4148,4148.0,Paid,Mpesa,Uasin Gishu,Yes
+PT-00653,2023-01-28 04:00:00,Nairobi West,Surgery,4088,1671.15,Partially Paid,NHIF,Nakuru,No
+PT-00654,2023-01-28 05:00:00,Aga Khan,Physiotherapy,2037,2037.0,Paid,NHIF,Nairobi,Yes
+PT-00655,2023-01-28 06:00:00,Aga Khan,Medication,3637,1334.38,Partially Paid,Mpesa,Kiambu,No
+PT-00656,2023-01-28 07:00:00,Kenyatta National Hospital,Consultation,597,0.0,Unpaid,Mpesa,Nakuru,Yes
+PT-00657,2023-01-28 08:00:00,Kenyatta National Hospital,Radiology,3715,0.0,Unpaid,Insurance,Mombasa,No
+PT-00658,2023-01-28 09:00:00,Moi Referral,Medication,4250,4250.0,Paid,NHIF,Kiambu,Yes
+PT-00659,2023-01-28 10:00:00,Kenyatta National Hospital,Medication,3657,2840.22,Partially Paid,NHIF,Mombasa,Yes
+PT-00660,2023-01-28 11:00:00,Nairobi West,Consultation,843,283.53,Partially Paid,Insurance,Uasin Gishu,No
+PT-00661,2023-01-28 12:00:00,Aga Khan,Lab Test,1110,0.0,Unpaid,Cash,Kiambu,Yes
+PT-00662,2023-01-28 13:00:00,Moi Referral,Surgery,2227,0.0,Unpaid,NHIF,Nakuru,Yes
+PT-00663,2023-01-28 14:00:00,Kenyatta National Hospital,Physiotherapy,2790,1114.74,Partially Paid,NHIF,Kiambu,Yes
+PT-00664,2023-01-28 15:00:00,Nairobi West,Lab Test,2354,2354.0,Paid,Cash,Uasin Gishu,Yes
+PT-00665,2023-01-28 16:00:00,Nairobi West,Radiology,3108,0.0,Unpaid,NHIF,Kisumu,Yes
+PT-00666,2023-01-28 17:00:00,Kenyatta National Hospital,Medication,2579,2579.0,Paid,NHIF,Mombasa,Yes
+PT-00667,2023-01-28 18:00:00,Aga Khan,Consultation,2824,2824.0,Paid,Cash,Uasin Gishu,No
+PT-00668,2023-01-28 19:00:00,Kenyatta National Hospital,Consultation,1677,0.0,Unpaid,Cash,Kisumu,Yes
+PT-00669,2023-01-28 20:00:00,Moi Referral,Surgery,1591,1591.0,Paid,Mpesa,Kiambu,No
+PT-00670,2023-01-28 21:00:00,Kenyatta National Hospital,Lab Test,3291,3291.0,Paid,Insurance,Kiambu,Yes
+PT-00671,2023-01-28 22:00:00,Nairobi West,Surgery,2249,1065.83,Partially Paid,Insurance,Uasin Gishu,Yes
+PT-00672,2023-01-28 23:00:00,Kenyatta National Hospital,Medication,3175,3175.0,Paid,Cash,Nakuru,No
+PT-00673,2023-01-29 00:00:00,Aga Khan,Surgery,1281,781.56,Partially Paid,Cash,Kiambu,Yes
+PT-00674,2023-01-29 01:00:00,Mbagathi Hospital,Physiotherapy,3548,0.0,Unpaid,NHIF,Nakuru,No
+PT-00675,2023-01-29 02:00:00,Kenyatta National Hospital,Consultation,2605,0.0,Unpaid,Mpesa,Nakuru,Yes
+PT-00676,2023-01-29 03:00:00,Aga Khan,Consultation,4367,2499.67,Partially Paid,Mpesa,Nakuru,No
+PT-00677,2023-01-29 04:00:00,Aga Khan,Radiology,2613,0.0,Unpaid,Cash,Nairobi,No
+PT-00678,2023-01-29 05:00:00,Nairobi West,Radiology,4470,4470.0,Paid,NHIF,Kisumu,No
+PT-00679,2023-01-29 06:00:00,Aga Khan,Medication,2491,2491.0,Paid,NHIF,Kisumu,No
+PT-00680,2023-01-29 07:00:00,Aga Khan,Physiotherapy,1567,1567.0,Paid,Insurance,Kiambu,No
+PT-00681,2023-01-29 08:00:00,Aga Khan,Lab Test,2077,0.0,Unpaid,Insurance,Kiambu,Yes
+PT-00682,2023-01-29 09:00:00,Aga Khan,Surgery,1511,1511.0,Paid,NHIF,Nakuru,Yes
+PT-00683,2023-01-29 10:00:00,Moi Referral,Medication,2774,0.0,Unpaid,Insurance,Nairobi,No
+PT-00684,2023-01-29 11:00:00,Moi Referral,Radiology,2314,2314.0,Paid,Cash,Nakuru,Yes
+PT-00685,2023-01-29 12:00:00,Nairobi West,Surgery,2926,1061.62,Partially Paid,NHIF,Nairobi,Yes
+PT-00686,2023-01-29 13:00:00,Kenyatta National Hospital,Radiology,4902,0.0,Unpaid,Insurance,Nakuru,No
+PT-00687,2023-01-29 14:00:00,Aga Khan,Surgery,3051,0.0,Unpaid,Mpesa,Mombasa,Yes
+PT-00688,2023-01-29 15:00:00,Kenyatta National Hospital,Lab Test,4157,4157.0,Paid,NHIF,Mombasa,No
+PT-00689,2023-01-29 16:00:00,Kenyatta National Hospital,Medication,507,0.0,Unpaid,NHIF,Uasin Gishu,No
+PT-00690,2023-01-29 17:00:00,Nairobi West,Surgery,3055,0.0,Unpaid,Mpesa,Nakuru,No
+PT-00691,2023-01-29 18:00:00,Aga Khan,Physiotherapy,975,433.74,Partially Paid,Cash,Kiambu,No
+PT-00692,2023-01-29 19:00:00,Aga Khan,Consultation,2711,1136.93,Partially Paid,Mpesa,Kisumu,Yes
+PT-00693,2023-01-29 20:00:00,Mbagathi Hospital,Physiotherapy,984,984.0,Paid,NHIF,Uasin Gishu,Yes
+PT-00694,2023-01-29 21:00:00,Kenyatta National Hospital,Physiotherapy,2785,1132.86,Partially Paid,Cash,Kiambu,No
+PT-00695,2023-01-29 22:00:00,Kenyatta National Hospital,Consultation,4025,4025.0,Paid,Insurance,Mombasa,Yes
+PT-00696,2023-01-29 23:00:00,Moi Referral,Physiotherapy,3839,3839.0,Paid,Insurance,Nakuru,No
+PT-00697,2023-01-30 00:00:00,Mbagathi Hospital,Surgery,3322,3322.0,Paid,Insurance,Uasin Gishu,No
+PT-00698,2023-01-30 01:00:00,Moi Referral,Surgery,3424,0.0,Unpaid,NHIF,Nakuru,No
+PT-00699,2023-01-30 02:00:00,Moi Referral,Surgery,758,383.22,Partially Paid,Mpesa,Mombasa,Yes
+PT-00700,2023-01-30 03:00:00,Moi Referral,Consultation,782,782.0,Paid,Cash,Uasin Gishu,No
+PT-00701,2023-01-30 04:00:00,Nairobi West,Physiotherapy,2398,1563.53,Partially Paid,Insurance,Mombasa,No
+PT-00702,2023-01-30 05:00:00,Nairobi West,Consultation,4635,4635.0,Paid,Cash,Nairobi,No
+PT-00703,2023-01-30 06:00:00,Moi Referral,Surgery,3476,1420.73,Partially Paid,NHIF,Mombasa,Yes
+PT-00704,2023-01-30 07:00:00,Mbagathi Hospital,Physiotherapy,2767,1337.4,Partially Paid,Insurance,Nakuru,No
+PT-00705,2023-01-30 08:00:00,Kenyatta National Hospital,Physiotherapy,3700,3700.0,Paid,NHIF,Kisumu,No
+PT-00706,2023-01-30 09:00:00,Mbagathi Hospital,Radiology,1112,0.0,Unpaid,Mpesa,Mombasa,No
+PT-00707,2023-01-30 10:00:00,Aga Khan,Radiology,1187,588.11,Partially Paid,NHIF,Kiambu,No
+PT-00708,2023-01-30 11:00:00,Nairobi West,Lab Test,4190,0.0,Unpaid,NHIF,Kisumu,Yes
+PT-00709,2023-01-30 12:00:00,Kenyatta National Hospital,Medication,1112,0.0,Unpaid,Mpesa,Nairobi,No
+PT-00710,2023-01-30 13:00:00,Kenyatta National Hospital,Radiology,2807,2807.0,Paid,Cash,Uasin Gishu,No
+PT-00711,2023-01-30 14:00:00,Aga Khan,Consultation,3513,3513.0,Paid,Mpesa,Uasin Gishu,Yes
+PT-00712,2023-01-30 15:00:00,Aga Khan,Radiology,2281,2281.0,Paid,Mpesa,Kisumu,No
+PT-00713,2023-01-30 16:00:00,Moi Referral,Lab Test,3091,2436.41,Partially Paid,NHIF,Uasin Gishu,No
+PT-00714,2023-01-30 17:00:00,Nairobi West,Physiotherapy,3196,3196.0,Paid,Cash,Mombasa,No
+PT-00715,2023-01-30 18:00:00,Nairobi West,Lab Test,4458,4458.0,Paid,Insurance,Kisumu,No
+PT-00716,2023-01-30 19:00:00,Mbagathi Hospital,Physiotherapy,1074,834.86,Partially Paid,Mpesa,Nakuru,No
+PT-00717,2023-01-30 20:00:00,Moi Referral,Physiotherapy,2410,1687.17,Partially Paid,Cash,Mombasa,No
+PT-00718,2023-01-30 21:00:00,Moi Referral,Medication,4104,4104.0,Paid,Mpesa,Mombasa,Yes
+PT-00719,2023-01-30 22:00:00,Moi Referral,Radiology,1169,1169.0,Paid,Mpesa,Mombasa,Yes
+PT-00720,2023-01-30 23:00:00,Moi Referral,Consultation,4864,4864.0,Paid,Mpesa,Nakuru,No
+PT-00721,2023-01-31 00:00:00,Nairobi West,Consultation,1783,1783.0,Paid,Mpesa,Nairobi,No
+PT-00722,2023-01-31 01:00:00,Nairobi West,Surgery,1423,0.0,Unpaid,NHIF,Kiambu,No
+PT-00723,2023-01-31 02:00:00,Moi Referral,Physiotherapy,1625,0.0,Unpaid,Cash,Uasin Gishu,No
+PT-00724,2023-01-31 03:00:00,Mbagathi Hospital,Consultation,2029,2029.0,Paid,Cash,Kisumu,Yes
+PT-00725,2023-01-31 04:00:00,Kenyatta National Hospital,Medication,2094,0.0,Unpaid,Cash,Nairobi,No
+PT-00726,2023-01-31 05:00:00,Kenyatta National Hospital,Physiotherapy,746,313.94,Partially Paid,Mpesa,Kisumu,Yes
+PT-00727,2023-01-31 06:00:00,Mbagathi Hospital,Medication,4211,0.0,Unpaid,NHIF,Uasin Gishu,No
+PT-00728,2023-01-31 07:00:00,Moi Referral,Consultation,2060,0.0,Unpaid,Mpesa,Nakuru,No
+PT-00729,2023-01-31 08:00:00,Nairobi West,Consultation,2900,2900.0,Paid,Mpesa,Mombasa,Yes
+PT-00730,2023-01-31 09:00:00,Kenyatta National Hospital,Surgery,2743,0.0,Unpaid,Cash,Mombasa,Yes
+PT-00731,2023-01-31 10:00:00,Aga Khan,Consultation,4364,0.0,Unpaid,Mpesa,Nakuru,No
+PT-00732,2023-01-31 11:00:00,Aga Khan,Physiotherapy,2439,0.0,Unpaid,Insurance,Nairobi,No
+PT-00733,2023-01-31 12:00:00,Mbagathi Hospital,Physiotherapy,3569,0.0,Unpaid,Mpesa,Nairobi,Yes
+PT-00734,2023-01-31 13:00:00,Moi Referral,Physiotherapy,726,242.5,Partially Paid,Insurance,Kisumu,No
+PT-00735,2023-01-31 14:00:00,Kenyatta National Hospital,Surgery,4047,4047.0,Paid,Mpesa,Nakuru,No
+PT-00736,2023-01-31 15:00:00,Moi Referral,Surgery,764,764.0,Paid,NHIF,Nairobi,No
+PT-00737,2023-01-31 16:00:00,Kenyatta National Hospital,Consultation,1895,868.77,Partially Paid,NHIF,Nakuru,No
+PT-00738,2023-01-31 17:00:00,Mbagathi Hospital,Lab Test,4057,0.0,Unpaid,Cash,Uasin Gishu,No
+PT-00739,2023-01-31 18:00:00,Mbagathi Hospital,Lab Test,1145,496.24,Partially Paid,Mpesa,Mombasa,No
+PT-00740,2023-01-31 19:00:00,Aga Khan,Surgery,3490,0.0,Unpaid,Insurance,Mombasa,No
+PT-00741,2023-01-31 20:00:00,Moi Referral,Consultation,2399,1326.56,Partially Paid,Insurance,Mombasa,No
+PT-00742,2023-01-31 21:00:00,Aga Khan,Lab Test,3004,3004.0,Paid,Mpesa,Nakuru,Yes
+PT-00743,2023-01-31 22:00:00,Moi Referral,Consultation,3272,3272.0,Paid,Insurance,Nakuru,No
+PT-00744,2023-01-31 23:00:00,Aga Khan,Consultation,1654,1654.0,Paid,NHIF,Kisumu,Yes
+PT-00745,2023-02-01 00:00:00,Nairobi West,Consultation,1087,0.0,Unpaid,Insurance,Mombasa,Yes
+PT-00746,2023-02-01 01:00:00,Nairobi West,Radiology,2321,0.0,Unpaid,Cash,Kisumu,Yes
+PT-00747,2023-02-01 02:00:00,Nairobi West,Physiotherapy,1485,1022.96,Partially Paid,NHIF,Mombasa,Yes
+PT-00748,2023-02-01 03:00:00,Nairobi West,Consultation,4579,3338.83,Partially Paid,NHIF,Kisumu,No
+PT-00749,2023-02-01 04:00:00,Kenyatta National Hospital,Radiology,3848,3848.0,Paid,NHIF,Kisumu,Yes
+PT-00750,2023-02-01 05:00:00,Nairobi West,Surgery,4331,0.0,Unpaid,Mpesa,Uasin Gishu,No
+PT-00751,2023-02-01 06:00:00,Mbagathi Hospital,Lab Test,1741,1257.75,Partially Paid,Mpesa,Kisumu,No
+PT-00752,2023-02-01 07:00:00,Mbagathi Hospital,Physiotherapy,689,0.0,Unpaid,NHIF,Nakuru,No
+PT-00753,2023-02-01 08:00:00,Kenyatta National Hospital,Lab Test,1480,0.0,Unpaid,Mpesa,Kisumu,Yes
+PT-00754,2023-02-01 09:00:00,Nairobi West,Physiotherapy,2198,2198.0,Paid,Insurance,Mombasa,No
+PT-00755,2023-02-01 10:00:00,Nairobi West,Lab Test,2215,2215.0,Paid,Mpesa,Kisumu,No
+PT-00756,2023-02-01 11:00:00,Nairobi West,Physiotherapy,3093,0.0,Unpaid,Mpesa,Nairobi,No
+PT-00757,2023-02-01 12:00:00,Aga Khan,Lab Test,4636,0.0,Unpaid,NHIF,Kiambu,No
+PT-00758,2023-02-01 13:00:00,Moi Referral,Lab Test,4933,0.0,Unpaid,Cash,Mombasa,No
+PT-00759,2023-02-01 14:00:00,Aga Khan,Lab Test,1598,0.0,Unpaid,Cash,Nairobi,No
+PT-00760,2023-02-01 15:00:00,Moi Referral,Lab Test,2826,2826.0,Paid,Cash,Mombasa,Yes
+PT-00761,2023-02-01 16:00:00,Nairobi West,Surgery,3747,1797.95,Partially Paid,Insurance,Nakuru,No
+PT-00762,2023-02-01 17:00:00,Nairobi West,Consultation,1395,1395.0,Paid,Mpesa,Kiambu,Yes
+PT-00763,2023-02-01 18:00:00,Aga Khan,Medication,2174,1399.22,Partially Paid,Cash,Kiambu,No
+PT-00764,2023-02-01 19:00:00,Aga Khan,Radiology,3409,0.0,Unpaid,NHIF,Nakuru,Yes
+PT-00765,2023-02-01 20:00:00,Moi Referral,Medication,1430,652.68,Partially Paid,Cash,Kiambu,Yes
+PT-00766,2023-02-01 21:00:00,Mbagathi Hospital,Medication,4884,4884.0,Paid,Cash,Nakuru,No
+PT-00767,2023-02-01 22:00:00,Moi Referral,Physiotherapy,1223,1223.0,Paid,Mpesa,Nairobi,No
+PT-00768,2023-02-01 23:00:00,Aga Khan,Consultation,3440,0.0,Unpaid,Mpesa,Uasin Gishu,Yes
+PT-00769,2023-02-02 00:00:00,Aga Khan,Physiotherapy,1589,1589.0,Paid,Mpesa,Mombasa,No
+PT-00770,2023-02-02 01:00:00,Kenyatta National Hospital,Consultation,1435,0.0,Unpaid,Insurance,Nakuru,No
+PT-00771,2023-02-02 02:00:00,Aga Khan,Consultation,2795,2795.0,Paid,Insurance,Mombasa,Yes
+PT-00772,2023-02-02 03:00:00,Kenyatta National Hospital,Lab Test,655,655.0,Paid,Cash,Nairobi,No
+PT-00773,2023-02-02 04:00:00,Mbagathi Hospital,Surgery,1570,0.0,Unpaid,Mpesa,Uasin Gishu,Yes
+PT-00774,2023-02-02 05:00:00,Moi Referral,Lab Test,2458,812.25,Partially Paid,Cash,Nairobi,No
+PT-00775,2023-02-02 06:00:00,Moi Referral,Surgery,3001,3001.0,Paid,NHIF,Kiambu,No
+PT-00776,2023-02-02 07:00:00,Kenyatta National Hospital,Physiotherapy,4719,3071.04,Partially Paid,NHIF,Mombasa,Yes
+PT-00777,2023-02-02 08:00:00,Moi Referral,Surgery,4330,4330.0,Paid,Mpesa,Uasin Gishu,No
+PT-00778,2023-02-02 09:00:00,Aga Khan,Physiotherapy,1354,1354.0,Paid,Mpesa,Kiambu,Yes
+PT-00779,2023-02-02 10:00:00,Nairobi West,Medication,1139,1139.0,Paid,NHIF,Uasin Gishu,No
+PT-00780,2023-02-02 11:00:00,Kenyatta National Hospital,Medication,2738,2738.0,Paid,Mpesa,Kiambu,No
+PT-00781,2023-02-02 12:00:00,Moi Referral,Surgery,2102,640.93,Partially Paid,Insurance,Nairobi,No
+PT-00782,2023-02-02 13:00:00,Kenyatta National Hospital,Surgery,941,474.82,Partially Paid,Insurance,Nakuru,Yes
+PT-00783,2023-02-02 14:00:00,Kenyatta National Hospital,Physiotherapy,1836,1836.0,Paid,Mpesa,Mombasa,Yes
+PT-00784,2023-02-02 15:00:00,Nairobi West,Lab Test,4200,4200.0,Paid,NHIF,Kisumu,Yes
+PT-00785,2023-02-02 16:00:00,Aga Khan,Physiotherapy,1448,672.87,Partially Paid,Cash,Kisumu,Yes
+PT-00786,2023-02-02 17:00:00,Kenyatta National Hospital,Lab Test,3873,0.0,Unpaid,Mpesa,Nairobi,No
+PT-00787,2023-02-02 18:00:00,Moi Referral,Medication,959,0.0,Unpaid,Mpesa,Mombasa,No
+PT-00788,2023-02-02 19:00:00,Mbagathi Hospital,Consultation,892,576.85,Partially Paid,Cash,Mombasa,No
+PT-00789,2023-02-02 20:00:00,Kenyatta National Hospital,Surgery,4438,4438.0,Paid,Mpesa,Nairobi,No
+PT-00790,2023-02-02 21:00:00,Kenyatta National Hospital,Lab Test,2287,2287.0,Paid,Cash,Mombasa,No
+PT-00791,2023-02-02 22:00:00,Nairobi West,Physiotherapy,2757,0.0,Unpaid,NHIF,Nakuru,No
+PT-00792,2023-02-02 23:00:00,Aga Khan,Medication,1638,0.0,Unpaid,Insurance,Nairobi,No
+PT-00793,2023-02-03 00:00:00,Mbagathi Hospital,Lab Test,4308,2942.89,Partially Paid,NHIF,Nakuru,No
+PT-00794,2023-02-03 01:00:00,Moi Referral,Physiotherapy,2954,0.0,Unpaid,Insurance,Mombasa,Yes
+PT-00795,2023-02-03 02:00:00,Mbagathi Hospital,Surgery,1966,888.73,Partially Paid,Cash,Nairobi,Yes
+PT-00796,2023-02-03 03:00:00,Moi Referral,Surgery,4174,0.0,Unpaid,Insurance,Mombasa,No
+PT-00797,2023-02-03 04:00:00,Aga Khan,Radiology,1877,0.0,Unpaid,NHIF,Nairobi,Yes
+PT-00798,2023-02-03 05:00:00,Moi Referral,Consultation,3097,0.0,Unpaid,Insurance,Mombasa,Yes
+PT-00799,2023-02-03 06:00:00,Nairobi West,Radiology,641,641.0,Paid,Cash,Nakuru,No
+PT-00800,2023-02-03 07:00:00,Nairobi West,Medication,3159,3159.0,Paid,Insurance,Nakuru,No
+PT-00801,2023-02-03 08:00:00,Nairobi West,Lab Test,1339,1339.0,Paid,Mpesa,Mombasa,No
+PT-00802,2023-02-03 09:00:00,Nairobi West,Medication,4118,0.0,Unpaid,NHIF,Nairobi,Yes
+PT-00803,2023-02-03 10:00:00,Mbagathi Hospital,Physiotherapy,4417,3117.58,Partially Paid,Mpesa,Kisumu,Yes
+PT-00804,2023-02-03 11:00:00,Aga Khan,Surgery,1095,489.42,Partially Paid,Cash,Nakuru,No
+PT-00805,2023-02-03 12:00:00,Moi Referral,Radiology,2404,1257.68,Partially Paid,Insurance,Nakuru,No
+PT-00806,2023-02-03 13:00:00,Moi Referral,Radiology,780,517.54,Partially Paid,Mpesa,Kiambu,No
+PT-00807,2023-02-03 14:00:00,Nairobi West,Radiology,923,923.0,Paid,Mpesa,Kisumu,No
+PT-00808,2023-02-03 15:00:00,Nairobi West,Medication,4865,4865.0,Paid,Insurance,Mombasa,No
+PT-00809,2023-02-03 16:00:00,Kenyatta National Hospital,Surgery,4749,0.0,Unpaid,Insurance,Nairobi,No
+PT-00810,2023-02-03 17:00:00,Aga Khan,Lab Test,2250,0.0,Unpaid,NHIF,Kiambu,Yes
+PT-00811,2023-02-03 18:00:00,Mbagathi Hospital,Physiotherapy,2467,1594.82,Partially Paid,Mpesa,Mombasa,No
+PT-00812,2023-02-03 19:00:00,Moi Referral,Lab Test,4588,4588.0,Paid,Mpesa,Uasin Gishu,No
+PT-00813,2023-02-03 20:00:00,Kenyatta National Hospital,Medication,4678,3712.85,Partially Paid,Cash,Nakuru,No
+PT-00814,2023-02-03 21:00:00,Kenyatta National Hospital,Physiotherapy,3446,0.0,Unpaid,NHIF,Uasin Gishu,No
+PT-00815,2023-02-03 22:00:00,Moi Referral,Radiology,1949,0.0,Unpaid,Cash,Nakuru,No
+PT-00816,2023-02-03 23:00:00,Mbagathi Hospital,Consultation,2831,1168.02,Partially Paid,Mpesa,Nakuru,Yes
+PT-00817,2023-02-04 00:00:00,Kenyatta National Hospital,Medication,2720,0.0,Unpaid,Cash,Uasin Gishu,No
+PT-00818,2023-02-04 01:00:00,Kenyatta National Hospital,Medication,4289,2707.04,Partially Paid,Mpesa,Uasin Gishu,Yes
+PT-00819,2023-02-04 02:00:00,Aga Khan,Surgery,3310,3310.0,Paid,Mpesa,Mombasa,No
+PT-00820,2023-02-04 03:00:00,Mbagathi Hospital,Lab Test,2031,1228.43,Partially Paid,Cash,Kiambu,Yes
+PT-00821,2023-02-04 04:00:00,Kenyatta National Hospital,Medication,3490,3490.0,Paid,Cash,Kiambu,Yes
+PT-00822,2023-02-04 05:00:00,Mbagathi Hospital,Medication,4993,4993.0,Paid,Insurance,Uasin Gishu,No
+PT-00823,2023-02-04 06:00:00,Moi Referral,Radiology,1643,0.0,Unpaid,Insurance,Mombasa,No
+PT-00824,2023-02-04 07:00:00,Nairobi West,Radiology,1433,0.0,Unpaid,Insurance,Kiambu,No
+PT-00825,2023-02-04 08:00:00,Kenyatta National Hospital,Physiotherapy,1960,0.0,Unpaid,Mpesa,Mombasa,Yes
+PT-00826,2023-02-04 09:00:00,Aga Khan,Consultation,3223,2441.58,Partially Paid,Cash,Mombasa,No
+PT-00827,2023-02-04 10:00:00,Moi Referral,Surgery,3012,1139.08,Partially Paid,NHIF,Nakuru,Yes
+PT-00828,2023-02-04 11:00:00,Mbagathi Hospital,Consultation,785,0.0,Unpaid,Mpesa,Kiambu,No
+PT-00829,2023-02-04 12:00:00,Moi Referral,Physiotherapy,764,516.39,Partially Paid,NHIF,Kiambu,No
+PT-00830,2023-02-04 13:00:00,Kenyatta National Hospital,Radiology,2867,0.0,Unpaid,Cash,Nakuru,No
+PT-00831,2023-02-04 14:00:00,Mbagathi Hospital,Lab Test,3947,2305.58,Partially Paid,Mpesa,Uasin Gishu,Yes
+PT-00832,2023-02-04 15:00:00,Nairobi West,Radiology,2262,2262.0,Paid,NHIF,Nakuru,No
+PT-00833,2023-02-04 16:00:00,Moi Referral,Surgery,3548,3548.0,Paid,NHIF,Kiambu,Yes
+PT-00834,2023-02-04 17:00:00,Kenyatta National Hospital,Radiology,2881,0.0,Unpaid,Insurance,Kiambu,No
+PT-00835,2023-02-04 18:00:00,Aga Khan,Surgery,2769,1210.97,Partially Paid,Insurance,Uasin Gishu,Yes
+PT-00836,2023-02-04 19:00:00,Mbagathi Hospital,Surgery,540,290.1,Partially Paid,Insurance,Nakuru,No
+PT-00837,2023-02-04 20:00:00,Moi Referral,Surgery,567,567.0,Paid,Mpesa,Nairobi,Yes
+PT-00838,2023-02-04 21:00:00,Moi Referral,Physiotherapy,1487,1487.0,Paid,Cash,Nairobi,No
+PT-00839,2023-02-04 22:00:00,Nairobi West,Surgery,4508,0.0,Unpaid,Cash,Uasin Gishu,No
+PT-00840,2023-02-04 23:00:00,Nairobi West,Surgery,3698,3698.0,Paid,Insurance,Nakuru,No
+PT-00841,2023-02-05 00:00:00,Aga Khan,Lab Test,3024,0.0,Unpaid,Insurance,Nakuru,Yes
+PT-00842,2023-02-05 01:00:00,Aga Khan,Consultation,1585,1585.0,Paid,Insurance,Mombasa,No
+PT-00843,2023-02-05 02:00:00,Kenyatta National Hospital,Medication,2979,2979.0,Paid,NHIF,Kiambu,No
+PT-00844,2023-02-05 03:00:00,Kenyatta National Hospital,Consultation,2193,1023.89,Partially Paid,Insurance,Kisumu,No
+PT-00845,2023-02-05 04:00:00,Aga Khan,Surgery,2815,2815.0,Paid,NHIF,Uasin Gishu,Yes
+PT-00846,2023-02-05 05:00:00,Aga Khan,Lab Test,1278,1278.0,Paid,Cash,Kisumu,No
+PT-00847,2023-02-05 06:00:00,Mbagathi Hospital,Radiology,2085,0.0,Unpaid,Mpesa,Kisumu,No
+PT-00848,2023-02-05 07:00:00,Nairobi West,Lab Test,1992,1992.0,Paid,Mpesa,Uasin Gishu,Yes
+PT-00849,2023-02-05 08:00:00,Kenyatta National Hospital,Surgery,1160,0.0,Unpaid,Mpesa,Nakuru,Yes
+PT-00850,2023-02-05 09:00:00,Nairobi West,Lab Test,1848,1848.0,Paid,Mpesa,Uasin Gishu,No
+PT-00851,2023-02-05 10:00:00,Nairobi West,Lab Test,1799,1799.0,Paid,NHIF,Kisumu,Yes
+PT-00852,2023-02-05 11:00:00,Aga Khan,Surgery,4440,0.0,Unpaid,NHIF,Kiambu,Yes
+PT-00853,2023-02-05 12:00:00,Mbagathi Hospital,Physiotherapy,2486,1465.89,Partially Paid,Insurance,Kiambu,No
+PT-00854,2023-02-05 13:00:00,Moi Referral,Lab Test,2544,0.0,Unpaid,NHIF,Kiambu,No
+PT-00855,2023-02-05 14:00:00,Mbagathi Hospital,Medication,4016,0.0,Unpaid,Insurance,Nakuru,Yes
+PT-00856,2023-02-05 15:00:00,Mbagathi Hospital,Medication,1558,0.0,Unpaid,Insurance,Nairobi,No
+PT-00857,2023-02-05 16:00:00,Nairobi West,Lab Test,1476,1098.88,Partially Paid,Mpesa,Uasin Gishu,Yes
+PT-00858,2023-02-05 17:00:00,Mbagathi Hospital,Physiotherapy,1227,1227.0,Paid,NHIF,Kiambu,Yes
+PT-00859,2023-02-05 18:00:00,Kenyatta National Hospital,Radiology,3027,0.0,Unpaid,NHIF,Uasin Gishu,Yes
+PT-00860,2023-02-05 19:00:00,Nairobi West,Surgery,3636,0.0,Unpaid,Insurance,Kiambu,No
+PT-00861,2023-02-05 20:00:00,Kenyatta National Hospital,Medication,842,492.28,Partially Paid,Insurance,Nakuru,Yes
+PT-00862,2023-02-05 21:00:00,Moi Referral,Radiology,1947,0.0,Unpaid,Cash,Nairobi,Yes
+PT-00863,2023-02-05 22:00:00,Nairobi West,Lab Test,2879,2879.0,Paid,Cash,Nairobi,No
+PT-00864,2023-02-05 23:00:00,Moi Referral,Radiology,4159,2561.37,Partially Paid,Insurance,Kiambu,No
+PT-00865,2023-02-06 00:00:00,Nairobi West,Consultation,1026,1026.0,Paid,Cash,Nakuru,Yes
+PT-00866,2023-02-06 01:00:00,Aga Khan,Medication,2396,2396.0,Paid,Cash,Mombasa,No
+PT-00867,2023-02-06 02:00:00,Mbagathi Hospital,Lab Test,2573,1439.27,Partially Paid,Insurance,Uasin Gishu,Yes
+PT-00868,2023-02-06 03:00:00,Aga Khan,Surgery,905,0.0,Unpaid,Insurance,Uasin Gishu,No
+PT-00869,2023-02-06 04:00:00,Moi Referral,Physiotherapy,2073,2073.0,Paid,NHIF,Kisumu,No
+PT-00870,2023-02-06 05:00:00,Mbagathi Hospital,Lab Test,4240,4240.0,Paid,Insurance,Nakuru,No
+PT-00871,2023-02-06 06:00:00,Nairobi West,Surgery,4774,4774.0,Paid,Insurance,Kisumu,Yes
+PT-00872,2023-02-06 07:00:00,Mbagathi Hospital,Physiotherapy,4727,4727.0,Paid,Mpesa,Kiambu,Yes
+PT-00873,2023-02-06 08:00:00,Kenyatta National Hospital,Physiotherapy,2346,763.82,Partially Paid,NHIF,Kisumu,Yes
+PT-00874,2023-02-06 09:00:00,Mbagathi Hospital,Lab Test,1978,823.7,Partially Paid,NHIF,Nairobi,Yes
+PT-00875,2023-02-06 10:00:00,Kenyatta National Hospital,Radiology,2895,2895.0,Paid,NHIF,Uasin Gishu,Yes
+PT-00876,2023-02-06 11:00:00,Mbagathi Hospital,Radiology,1271,0.0,Unpaid,Mpesa,Kisumu,No
+PT-00877,2023-02-06 12:00:00,Kenyatta National Hospital,Physiotherapy,1078,1078.0,Paid,Insurance,Nairobi,No
+PT-00878,2023-02-06 13:00:00,Moi Referral,Radiology,3401,0.0,Unpaid,NHIF,Nakuru,No
+PT-00879,2023-02-06 14:00:00,Aga Khan,Consultation,693,693.0,Paid,NHIF,Kisumu,No
+PT-00880,2023-02-06 15:00:00,Nairobi West,Physiotherapy,2507,0.0,Unpaid,Cash,Kiambu,No
+PT-00881,2023-02-06 16:00:00,Mbagathi Hospital,Physiotherapy,1685,1685.0,Paid,NHIF,Kiambu,No
+PT-00882,2023-02-06 17:00:00,Aga Khan,Surgery,2894,0.0,Unpaid,Insurance,Kiambu,Yes
+PT-00883,2023-02-06 18:00:00,Nairobi West,Radiology,3498,3498.0,Paid,Insurance,Uasin Gishu,No
+PT-00884,2023-02-06 19:00:00,Nairobi West,Physiotherapy,2292,2292.0,Paid,Cash,Kisumu,No
+PT-00885,2023-02-06 20:00:00,Kenyatta National Hospital,Consultation,1610,0.0,Unpaid,NHIF,Nakuru,No
+PT-00886,2023-02-06 21:00:00,Moi Referral,Surgery,4505,2459.73,Partially Paid,NHIF,Kisumu,No
+PT-00887,2023-02-06 22:00:00,Moi Referral,Lab Test,2761,0.0,Unpaid,NHIF,Uasin Gishu,Yes
+PT-00888,2023-02-06 23:00:00,Aga Khan,Physiotherapy,4236,1927.88,Partially Paid,Mpesa,Nairobi,Yes
+PT-00889,2023-02-07 00:00:00,Moi Referral,Consultation,4293,4293.0,Paid,NHIF,Uasin Gishu,No
+PT-00890,2023-02-07 01:00:00,Mbagathi Hospital,Medication,2436,0.0,Unpaid,Insurance,Kiambu,Yes
+PT-00891,2023-02-07 02:00:00,Moi Referral,Consultation,4857,0.0,Unpaid,Insurance,Nairobi,No
+PT-00892,2023-02-07 03:00:00,Aga Khan,Consultation,1229,0.0,Unpaid,Mpesa,Kiambu,No
+PT-00893,2023-02-07 04:00:00,Moi Referral,Surgery,4878,1906.72,Partially Paid,Mpesa,Mombasa,No
+PT-00894,2023-02-07 05:00:00,Mbagathi Hospital,Lab Test,3951,2181.21,Partially Paid,NHIF,Uasin Gishu,No
+PT-00895,2023-02-07 06:00:00,Kenyatta National Hospital,Medication,4957,4957.0,Paid,Cash,Uasin Gishu,Yes
+PT-00896,2023-02-07 07:00:00,Aga Khan,Radiology,2640,1218.11,Partially Paid,Mpesa,Nakuru,Yes
+PT-00897,2023-02-07 08:00:00,Kenyatta National Hospital,Radiology,2144,919.89,Partially Paid,Mpesa,Kisumu,No
+PT-00898,2023-02-07 09:00:00,Kenyatta National Hospital,Consultation,3300,3300.0,Paid,NHIF,Nairobi,No
+PT-00899,2023-02-07 10:00:00,Kenyatta National Hospital,Surgery,641,0.0,Unpaid,NHIF,Nairobi,No
+PT-00900,2023-02-07 11:00:00,Nairobi West,Surgery,1955,0.0,Unpaid,Mpesa,Nakuru,Yes
+PT-00901,2023-02-07 12:00:00,Nairobi West,Radiology,2596,2596.0,Paid,Cash,Nakuru,Yes
+PT-00902,2023-02-07 13:00:00,Kenyatta National Hospital,Medication,1825,0.0,Unpaid,Mpesa,Kisumu,No
+PT-00903,2023-02-07 14:00:00,Aga Khan,Lab Test,1713,911.3,Partially Paid,NHIF,Kiambu,Yes
+PT-00904,2023-02-07 15:00:00,Mbagathi Hospital,Medication,1659,1659.0,Paid,NHIF,Kisumu,No
+PT-00905,2023-02-07 16:00:00,Mbagathi Hospital,Physiotherapy,4999,4999.0,Paid,Mpesa,Uasin Gishu,Yes
+PT-00906,2023-02-07 17:00:00,Moi Referral,Physiotherapy,840,840.0,Paid,Cash,Kiambu,No
+PT-00907,2023-02-07 18:00:00,Aga Khan,Lab Test,4328,0.0,Unpaid,Mpesa,Mombasa,No
+PT-00908,2023-02-07 19:00:00,Nairobi West,Radiology,2468,2468.0,Paid,Mpesa,Kisumu,No
+PT-00909,2023-02-07 20:00:00,Kenyatta National Hospital,Lab Test,1203,1203.0,Paid,NHIF,Nakuru,Yes
+PT-00910,2023-02-07 21:00:00,Moi Referral,Surgery,4913,4913.0,Paid,Cash,Kiambu,No
+PT-00911,2023-02-07 22:00:00,Mbagathi Hospital,Physiotherapy,2929,0.0,Unpaid,Insurance,Kisumu,No
+PT-00912,2023-02-07 23:00:00,Nairobi West,Consultation,2300,843.28,Partially Paid,Cash,Nairobi,No
+PT-00913,2023-02-08 00:00:00,Nairobi West,Consultation,1355,1355.0,Paid,Mpesa,Mombasa,No
+PT-00914,2023-02-08 01:00:00,Kenyatta National Hospital,Radiology,2312,1766.07,Partially Paid,Mpesa,Uasin Gishu,No
+PT-00915,2023-02-08 02:00:00,Mbagathi Hospital,Surgery,3366,0.0,Unpaid,Mpesa,Nairobi,No
+PT-00916,2023-02-08 03:00:00,Aga Khan,Medication,4142,0.0,Unpaid,Cash,Nairobi,No
+PT-00917,2023-02-08 04:00:00,Nairobi West,Surgery,682,0.0,Unpaid,NHIF,Mombasa,Yes
+PT-00918,2023-02-08 05:00:00,Kenyatta National Hospital,Consultation,3612,0.0,Unpaid,Mpesa,Uasin Gishu,Yes
+PT-00919,2023-02-08 06:00:00,Aga Khan,Consultation,4992,3663.38,Partially Paid,Mpesa,Nakuru,Yes
+PT-00920,2023-02-08 07:00:00,Mbagathi Hospital,Physiotherapy,2017,2017.0,Paid,Cash,Kiambu,No
+PT-00921,2023-02-08 08:00:00,Nairobi West,Surgery,1856,0.0,Unpaid,Insurance,Uasin Gishu,No
+PT-00922,2023-02-08 09:00:00,Aga Khan,Surgery,2674,0.0,Unpaid,Insurance,Kisumu,No
+PT-00923,2023-02-08 10:00:00,Aga Khan,Consultation,4129,2699.58,Partially Paid,NHIF,Nairobi,Yes
+PT-00924,2023-02-08 11:00:00,Aga Khan,Medication,4128,1457.63,Partially Paid,NHIF,Kisumu,Yes
+PT-00925,2023-02-08 12:00:00,Nairobi West,Radiology,4596,0.0,Unpaid,Mpesa,Nakuru,No
+PT-00926,2023-02-08 13:00:00,Nairobi West,Radiology,3739,3739.0,Paid,Cash,Kisumu,No
+PT-00927,2023-02-08 14:00:00,Moi Referral,Surgery,4191,4191.0,Paid,Mpesa,Uasin Gishu,Yes
+PT-00928,2023-02-08 15:00:00,Mbagathi Hospital,Radiology,518,0.0,Unpaid,NHIF,Kisumu,No
+PT-00929,2023-02-08 16:00:00,Kenyatta National Hospital,Consultation,3903,2685.02,Partially Paid,Cash,Nakuru,Yes
+PT-00930,2023-02-08 17:00:00,Aga Khan,Consultation,3504,0.0,Unpaid,Cash,Nakuru,Yes
+PT-00931,2023-02-08 18:00:00,Moi Referral,Surgery,1632,0.0,Unpaid,NHIF,Nakuru,No
+PT-00932,2023-02-08 19:00:00,Kenyatta National Hospital,Surgery,3839,2702.57,Partially Paid,Insurance,Uasin Gishu,Yes
+PT-00933,2023-02-08 20:00:00,Moi Referral,Physiotherapy,3811,0.0,Unpaid,Insurance,Nakuru,No
+PT-00934,2023-02-08 21:00:00,Nairobi West,Surgery,3872,0.0,Unpaid,Cash,Nairobi,Yes
+PT-00935,2023-02-08 22:00:00,Aga Khan,Medication,1487,0.0,Unpaid,Mpesa,Nakuru,Yes
+PT-00936,2023-02-08 23:00:00,Kenyatta National Hospital,Radiology,3821,2613.11,Partially Paid,Insurance,Kisumu,Yes
+PT-00937,2023-02-09 00:00:00,Kenyatta National Hospital,Surgery,673,673.0,Paid,Mpesa,Kiambu,No
+PT-00938,2023-02-09 01:00:00,Kenyatta National Hospital,Lab Test,4241,4241.0,Paid,Insurance,Kisumu,No
+PT-00939,2023-02-09 02:00:00,Kenyatta National Hospital,Physiotherapy,3552,1268.0,Partially Paid,Insurance,Kiambu,No
+PT-00940,2023-02-09 03:00:00,Kenyatta National Hospital,Lab Test,1226,1226.0,Paid,Mpesa,Kisumu,Yes
+PT-00941,2023-02-09 04:00:00,Moi Referral,Consultation,4260,0.0,Unpaid,NHIF,Uasin Gishu,Yes
+PT-00942,2023-02-09 05:00:00,Aga Khan,Radiology,2375,2375.0,Paid,Insurance,Kisumu,No
+PT-00943,2023-02-09 06:00:00,Nairobi West,Surgery,4533,0.0,Unpaid,Insurance,Uasin Gishu,No
+PT-00944,2023-02-09 07:00:00,Nairobi West,Lab Test,1489,1489.0,Paid,Mpesa,Uasin Gishu,No
+PT-00945,2023-02-09 08:00:00,Nairobi West,Radiology,4244,2639.57,Partially Paid,NHIF,Nakuru,Yes
+PT-00946,2023-02-09 09:00:00,Nairobi West,Consultation,3186,3186.0,Paid,Insurance,Nairobi,No
+PT-00947,2023-02-09 10:00:00,Moi Referral,Medication,919,919.0,Paid,Insurance,Kiambu,No
+PT-00948,2023-02-09 11:00:00,Mbagathi Hospital,Physiotherapy,1093,1093.0,Paid,NHIF,Nakuru,Yes
+PT-00949,2023-02-09 12:00:00,Aga Khan,Radiology,2274,1630.83,Partially Paid,Insurance,Nakuru,No
+PT-00950,2023-02-09 13:00:00,Kenyatta National Hospital,Radiology,2959,2959.0,Paid,NHIF,Uasin Gishu,Yes
+PT-00951,2023-02-09 14:00:00,Mbagathi Hospital,Medication,1435,844.75,Partially Paid,NHIF,Uasin Gishu,No
+PT-00952,2023-02-09 15:00:00,Nairobi West,Radiology,4308,0.0,Unpaid,Mpesa,Kiambu,No
+PT-00953,2023-02-09 16:00:00,Mbagathi Hospital,Consultation,831,831.0,Paid,Cash,Kisumu,No
+PT-00954,2023-02-09 17:00:00,Aga Khan,Consultation,3949,2461.03,Partially Paid,NHIF,Kisumu,No
+PT-00955,2023-02-09 18:00:00,Kenyatta National Hospital,Medication,3202,1694.44,Partially Paid,Mpesa,Nakuru,Yes
+PT-00956,2023-02-09 19:00:00,Kenyatta National Hospital,Physiotherapy,4506,4506.0,Paid,Cash,Mombasa,No
+PT-00957,2023-02-09 20:00:00,Aga Khan,Surgery,4368,0.0,Unpaid,Insurance,Mombasa,Yes
+PT-00958,2023-02-09 21:00:00,Aga Khan,Lab Test,4700,2652.46,Partially Paid,Cash,Kisumu,Yes
+PT-00959,2023-02-09 22:00:00,Nairobi West,Surgery,701,701.0,Paid,NHIF,Mombasa,No
+PT-00960,2023-02-09 23:00:00,Kenyatta National Hospital,Radiology,2997,0.0,Unpaid,NHIF,Kisumu,No
+PT-00961,2023-02-10 00:00:00,Mbagathi Hospital,Lab Test,2342,742.86,Partially Paid,NHIF,Uasin Gishu,No
+PT-00962,2023-02-10 01:00:00,Moi Referral,Medication,2366,1465.69,Partially Paid,NHIF,Nakuru,Yes
+PT-00963,2023-02-10 02:00:00,Moi Referral,Medication,2496,0.0,Unpaid,NHIF,Nairobi,No
+PT-00964,2023-02-10 03:00:00,Aga Khan,Physiotherapy,1409,0.0,Unpaid,Mpesa,Nakuru,No
+PT-00965,2023-02-10 04:00:00,Nairobi West,Lab Test,4805,4805.0,Paid,NHIF,Kisumu,Yes
+PT-00966,2023-02-10 05:00:00,Moi Referral,Consultation,3689,3689.0,Paid,Mpesa,Kisumu,Yes
+PT-00967,2023-02-10 06:00:00,Kenyatta National Hospital,Lab Test,1270,432.72,Partially Paid,Insurance,Nakuru,Yes
+PT-00968,2023-02-10 07:00:00,Aga Khan,Radiology,3655,0.0,Unpaid,NHIF,Kiambu,Yes
+PT-00969,2023-02-10 08:00:00,Mbagathi Hospital,Consultation,3001,0.0,Unpaid,NHIF,Kisumu,No
+PT-00970,2023-02-10 09:00:00,Aga Khan,Medication,3214,0.0,Unpaid,Cash,Mombasa,No
+PT-00971,2023-02-10 10:00:00,Mbagathi Hospital,Lab Test,4085,2114.02,Partially Paid,Insurance,Mombasa,No
+PT-00972,2023-02-10 11:00:00,Aga Khan,Surgery,2128,0.0,Unpaid,NHIF,Kisumu,No
+PT-00973,2023-02-10 12:00:00,Aga Khan,Physiotherapy,886,0.0,Unpaid,NHIF,Kisumu,Yes
+PT-00974,2023-02-10 13:00:00,Aga Khan,Surgery,3921,1750.05,Partially Paid,Insurance,Kiambu,No
+PT-00975,2023-02-10 14:00:00,Mbagathi Hospital,Physiotherapy,4508,4508.0,Paid,Mpesa,Mombasa,No
+PT-00976,2023-02-10 15:00:00,Mbagathi Hospital,Radiology,4593,4593.0,Paid,NHIF,Kisumu,No
+PT-00977,2023-02-10 16:00:00,Aga Khan,Surgery,4863,2785.11,Partially Paid,Cash,Kisumu,Yes
+PT-00978,2023-02-10 17:00:00,Moi Referral,Lab Test,2966,0.0,Unpaid,NHIF,Kiambu,No
+PT-00979,2023-02-10 18:00:00,Nairobi West,Lab Test,2782,1020.18,Partially Paid,Cash,Kiambu,Yes
+PT-00980,2023-02-10 19:00:00,Nairobi West,Surgery,2356,2356.0,Paid,Cash,Nakuru,Yes
+PT-00981,2023-02-10 20:00:00,Nairobi West,Lab Test,2498,2498.0,Paid,NHIF,Kiambu,No
+PT-00982,2023-02-10 21:00:00,Mbagathi Hospital,Radiology,1736,1121.15,Partially Paid,NHIF,Nairobi,Yes
+PT-00983,2023-02-10 22:00:00,Mbagathi Hospital,Consultation,4644,3239.22,Partially Paid,Cash,Mombasa,No
+PT-00984,2023-02-10 23:00:00,Moi Referral,Radiology,1650,1650.0,Paid,Insurance,Nakuru,No
+PT-00985,2023-02-11 00:00:00,Nairobi West,Physiotherapy,4818,1838.92,Partially Paid,Insurance,Nairobi,No
+PT-00986,2023-02-11 01:00:00,Nairobi West,Radiology,1931,1931.0,Paid,NHIF,Kisumu,Yes
+PT-00987,2023-02-11 02:00:00,Aga Khan,Physiotherapy,2319,816.65,Partially Paid,Mpesa,Kisumu,Yes
+PT-00988,2023-02-11 03:00:00,Mbagathi Hospital,Lab Test,2824,1052.67,Partially Paid,Insurance,Nakuru,Yes
+PT-00989,2023-02-11 04:00:00,Nairobi West,Consultation,1630,1203.86,Partially Paid,NHIF,Kiambu,No
+PT-00990,2023-02-11 05:00:00,Moi Referral,Lab Test,3158,3158.0,Paid,Insurance,Kisumu,Yes
+PT-00991,2023-02-11 06:00:00,Moi Referral,Medication,4000,2256.38,Partially Paid,Mpesa,Uasin Gishu,Yes
+PT-00992,2023-02-11 07:00:00,Nairobi West,Lab Test,874,874.0,Paid,NHIF,Nakuru,Yes
+PT-00993,2023-02-11 08:00:00,Mbagathi Hospital,Physiotherapy,2620,2620.0,Paid,Mpesa,Nairobi,Yes
+PT-00994,2023-02-11 09:00:00,Moi Referral,Lab Test,4520,2412.01,Partially Paid,NHIF,Nakuru,No
+PT-00995,2023-02-11 10:00:00,Aga Khan,Lab Test,2521,890.81,Partially Paid,Mpesa,Mombasa,No
+PT-00996,2023-02-11 11:00:00,Moi Referral,Consultation,4205,4205.0,Paid,Insurance,Kiambu,Yes
+PT-00997,2023-02-11 12:00:00,Kenyatta National Hospital,Lab Test,3759,3759.0,Paid,Insurance,Kiambu,No
+PT-00998,2023-02-11 13:00:00,Kenyatta National Hospital,Consultation,3935,0.0,Unpaid,Mpesa,Nakuru,No
+PT-00999,2023-02-11 14:00:00,Mbagathi Hospital,Surgery,2389,2389.0,Paid,Mpesa,Kisumu,No
+PT-01000,2023-02-11 15:00:00,Nairobi West,Medication,2323,0.0,Unpaid,Mpesa,Kisumu,No
